@@ -102,7 +102,7 @@
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-7
-        p.mb-5 La comunicación organizacional se establece en todas las instituciones y hace parte de la cultura corporativa, está documentada y organizada por medio de un plan de comunicaciones y a partir de ella se puede dar entre todos los niveles jerárquicos de la empresa de manera fluida y efectiva.  
+        p.mb-5 El plan estratégico de comunicaciones es un instrumento de organización para el desarrollo de las comunicaciones organizacionales en un determinado tiempo, este plan incluye las políticas empresariales y se instaura conforme a los objetivos estratégicos planteados a corto, mediano y largo plazo establecidos por la alta gerencia.
         .cajon.color-acento-botones.p-4.mb-4.fnd-8
           p Este plan busca estructurar o establecer una organización formal y preparada para las comunicaciones que se producen dentro de ella, bien sea de carácter interno o externo, con el fin de homogeneizar los procesos de comunicación y evitar la pérdida de información, recursos y tiempo. 
       .col-md-6.col-lg-5
@@ -210,12 +210,13 @@
     p.mb-5 Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios. 
     p.mb-5 La siguiente imagen es un ejemplo de la estructuración de una matriz de comunicaciones como recurso principal para la ejecución del plan.
 
-
-    .titulo-sexto.color-acento-contenido                
-      h5 Figura 4. 
-      span  Ejemplo de la estructuración de la matriz de comunicaciones
-    figure.mb-5
-      img(src='@/assets/curso/temas/tema4/img-10.svg')
+    .row.fnd-11.justify-content-center
+      .col-lg-11.mt-5
+        .titulo-sexto.color-acento-contenido                
+          h5 Figura 4. 
+          span  Ejemplo de la estructuración de la matriz de comunicaciones
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema4/img-10.svg')
 
 
 

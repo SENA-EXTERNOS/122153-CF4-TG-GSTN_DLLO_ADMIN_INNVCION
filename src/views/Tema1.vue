@@ -20,7 +20,7 @@
 
     .row.justify-content-center.mb-5
       .col-md-8.col-lg-10
-        .tarjeta.p-3.fnd-2
+        .tarjeta.p-3.fnd-10
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/temas/tema1/img-2.svg")
@@ -62,13 +62,13 @@
     p.mb-5 El autor expone “La pirámide de Maslow” (1943) en 5 grandes bloques: necesidades fisiológicas, de seguridad y reaseguramiento, de amor y pertenencia, de estima, y la necesidad de actualizar el sí mismo; como se muestra en la siguiente imagen: 
     .titulo-sexto.color-acento-contenido.mb5
       h5 Figura 1
-      span Pirámide de Maslow
-
-    h3.text-center.mb-5 La pirámide de Maslow
-    .row.justify-content-center.mb-5
-      .col-md-8.col-lg-10
-        igure
-          img(src='@/assets/curso/temas/tema1/img-3.svg', alt='Texto que describa la imagen')
+      span <em> Pirámide de Maslow</em>
+    .row.fnd-11.mb-5
+      h3.text-center.mb-5.mt-5 La pirámide de Maslow
+      .row.justify-content-center.mb-5
+        .col-md-8.col-lg-10
+          igure
+            img(src='@/assets/curso/temas/tema1/img-3.svg', alt='Texto que describa la imagen')
     p.mb-5 Analizando la pirámide se evidencia que las empresas se ubicarán en el tercer nivel. Esta necesidad de pertenencia adopta una característica netamente social; lo que implica una relación entre el cliente y la organización; vínculo que repercute directamente en la sociedad.
 
     ul.lista-ul--color.mor.mb-3

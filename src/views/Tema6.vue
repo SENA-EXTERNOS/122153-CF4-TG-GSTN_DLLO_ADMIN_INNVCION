@@ -58,31 +58,31 @@
         tbody
           tr
             td.text-black Automatización robótica de procesos (RPA)
-            td.text-black Creación y automatización de procesos operativas a través de un robot.
-            td.text-black Disminución en los tiempos de respuesta, clasificación de necesidades, aumento de la productividad, disminución de tasas de error y reprocesos.
+            td Creación y automatización de procesos operativas a través de un robot.
+            td Disminución en los tiempos de respuesta, clasificación de necesidades, aumento de la productividad, disminución de tasas de error y reprocesos.
 
           tr
-            td Chat Bots
+            td.text-black Chat Bots
             td Bot de atención automatizado para el servicio al cliente.
             td Facilita la autogestión de los clientes y contribuye a la disminución de tiempos de respuesta.
 
           tr
-            td Motores Insight
+            td.text-black Motores Insight
             td Estructuración de algoritmos para procesamientos de datos y fuentes a grandes velocidades creando ecosistemas de registro.
             td Permite el análisis de información estructurada y no estructurada en línea, además predice el comportamiento de los clientes.
 
           tr
-            td Sistema de reconocimiento de análisis de voz.
+            td.text-black Sistema de reconocimiento de análisis de voz.
             td Aplicación de reconocimiento de voz soportas en IA para el análisis de los sentimientos.
             td Autenticación de clientes, conocer mejor al cliente, anticiparse a sus necesidades.
 
           tr
-            td Asistente Virtual (IVAS)
+            td.text-black Asistente Virtual (IVAS)
             td Asistente (robot) que puede interactuar de forma natural basado en lenguaje conversacional con el cliente.
             td Autoaprendizaje todo el tiempo, proporciona nuevas experiencias personalizadas al cliente.
 
 
-    ul.lista-ul--color.mor.mb-5
+    ul.lista-ul--color.mor
       li 
         i.fas.fa-square
         | 

@@ -35,7 +35,7 @@
                     span Ver video
                     i.fas.fa-video
 
-    h3 Ciclo del servicio y momentos de verdad
+    h3.mb-5 Ciclo del servicio y momentos de verdad
     p.mb-5 El ciclo de servicio o ciclo de atención al cliente representa la base de una experiencia omnicanal con los clientes. Se trata de la estructuración de todo el recorrido que el usuario/cliente debe hacer desde su primer contacto con la empresa hasta que finaliza su experiencia.
     .row.justify-content-center.mb-5
       .col-md-9.col-lg-10.mb-3
@@ -63,18 +63,21 @@
           .titulo-sexto.color-acento-contenido                
             h5 Figura 2. 
             span Ejemplo ciclo del servicio
-        .row.justify-content-center 
-          h3.text-center Ejemplo ciclo del servicio
-          .col-lg-8
-            figure.mb-5
-            img(src='@/assets/curso/temas/tema2/img-3.svg')
+
+
+        .col-lg-10.mb-5
+          .row.justify-content-center.fnd-11
+            .col-lg-10
+              h3.text-center.mt-5 Ejemplo ciclo del servicio
+              figure.mb-5
+                img(src='@/assets/curso/temas/tema2/img-3.svg')
 
     p.mb-5 Los “momentos de verdad” son todos los instantes en que el cliente tiene contacto con la empresa y sobre la base de este contacto se define un juicio sobre la calidad del servicio prestado.
     p.mb-5  Este “momento de verdad” también se puede dar cuando el cliente llega al lugar del servicio y se pone en contacto con algunos elementos de la empresa, y no necesariamente con el contacto humano; por ejemplo, la oficina, infraestructura en general, página web, robot de servicio, llamada, correo electrónico, entre otros.
     p.mb-5  Cabe aclarar que el servicio debe identificar y establecer una estrategia para que todos esos “momentos de verdad” se conviertan en necesidades satisfechas para sus clientes.      
     .row.justify-content-center 
       .col-lg-8
-        .cajon.color-primario.p-4.mb-4.fnd-1
+        .cajon.color-primario.p-4.mb-4.fnd-10
 
           p.text-black Recuerde 
           p los momentos de verdad no ocurren al azar, normalmente se dan en una secuencia lógica y medible, lo que posibilita identificar las mejoras necesarias para proporcionar servicios con calidad.
@@ -207,10 +210,10 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-16.svg' alt='AvatarTop')
-          h2.text-center Enfoque al cliente
-          p.text-center La organización depende de sus clientes y por ello se deberá comprender las necesidades actuales y futuras de los clientes y satisfacerlas.
+        h2.text-center Enfoque al cliente
+        p.text-center La organización depende de sus clientes y por ello se deberá comprender las necesidades actuales y futuras de los clientes y satisfacerlas.
 
-      .tarjeta.color-acento-contenido.p-4.d-flex
+      .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop')

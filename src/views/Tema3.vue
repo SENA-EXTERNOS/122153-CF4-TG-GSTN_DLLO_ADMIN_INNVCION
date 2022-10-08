@@ -16,7 +16,7 @@
 
       .col-md-6.col-lg-8
         p.mb-5 La etiqueta hace referencia a las costumbres que se deben guardar en actos públicos o privados, que normalmente están establecidos por los diferentes entes, en algunos casos existe reglamentación en aspectos como la forma de hablar, la vestimenta, el tiempo, la presentación, entre otros. Las organizaciones pueden establecer etiquetas de presentación personal (uniforme), la forma como se saluda a los clientes, los tiempos de duración en cada contacto, entre otros.
-        .cajon.color-primario.p-4.mb-4.fnd-1
+        .cajon.color-primario.p-4.mb-4.fnd-10
           p El protocolo es un conjunto de reglas jerárquicas y concurrentes de un acto público o privado que establece una organización, grupo o autoridad, con el objetivo de estructurar o estandarizar los procesos o procedimientos.
 
     p.mb-5 Para ampliar la información, lo invitamos a ver los siguientes videos:

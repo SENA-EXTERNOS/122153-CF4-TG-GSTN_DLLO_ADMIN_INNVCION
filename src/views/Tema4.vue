@@ -221,7 +221,7 @@
 
     Separador   
 
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_3.titulo-segundo.color-acento-contenido
       h2 4.3 Confidencialidad en el manejo de la información y datos personales
 
     p.mb-5 En cuanto al manejo de la información dentro de la empresa, es importante resaltar que se debe garantizar la seguridad y confidencialidad de la información tanto a clientes internos como externos, de tal forma, que las personas responsables del proceso de la comunicación, independientemente del canal o medio utilizado (oral o escrito), están en la obligación de guardar el secreto conforme a lo establecido en la Constitución Nacional.

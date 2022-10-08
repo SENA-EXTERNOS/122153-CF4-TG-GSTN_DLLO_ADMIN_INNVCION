@@ -42,130 +42,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Aspectos generales de la contabilidad',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Audio',
-            hash: 'audio',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Dialogo ingles',
-            hash: 'actividad_dialogo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.19',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -173,44 +51,6 @@ export default {
         numero: '2',
         titulo: 'Producción Audiovisual',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Infografía Animada',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Video Motion',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -218,45 +58,6 @@ export default {
         numero: '3',
         titulo: 'Fundamentación Textil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
-          },
-        ],
       },
 
       {
@@ -269,15 +70,21 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'La contabilidad y su clasificación',
             hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Identificación fibras por combustión',
+            titulo: 'Plan estratégico de comunicaciones',
             hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo:
+              'Confidencialidad en el manejo de la información y datos personales',
+            hash: 't_4_3',
           },
         ],
       },
@@ -287,21 +94,6 @@ export default {
         numero: '5',
         titulo: 'Fundamentación Textil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_5_2',
-          },
-        ],
       },
 
       {
@@ -310,21 +102,6 @@ export default {
         numero: '6',
         titulo: 'Fundamentación Textil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_6_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -332,21 +109,6 @@ export default {
         numero: '7',
         titulo: 'Fundamentación Textil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_7_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_7_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -391,132 +153,158 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Blanco García, C. (2013). <em>Comunicación y atención al cliente.</em> Macmillan Iberia, S.A. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/42955?page=9 ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Boeree, G. (2003).<em> Teoría de la personalidad.</em> Traducción al castellano: Dr. Rafael Gautier. Artículo en línea ',
+      link: 'http://webspace.ship.edu/cgboer/maslowesp.html ',
+    },
+
+    {
+      referencia:
+        'Bueno, A. (2021).<em> La tecnología</em>, una herramienta de servicio al cliente (Trabajo de grado, Universidad Militar Nueva Granada). Repositorio Universidad Militar Nueva Granada. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y ',
     },
+
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Bueno, A. (2021). <em>La tecnología, una herramienta de servicio al cliente </em>(Trabajo de grado, Universidad Militar Nueva Granada). Repositorio Universidad Militar Nueva Granada. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Camacho Castellanos, J. C. (2012).<em> Marketing de servicios.</em> B - EUMED.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/34494?page=17 ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Mateos de Pablo Blanco, M. Á. (2019). <em>Atención al cliente y calidad en el servicio.</em> COMM002PO. IC Editorial. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/124251?page=5',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'O´Brien, James (2001). <em>Sistemas de Información Gerencial. </em>McGraw-Hill/Interamericana. 4ta Edición. Colombia. ',
+    },
+    {
+      referencia:
+        'Pérez Rodríguez, M. D. (Coord.). (2012). <em>Calidad de servicio y Atención al Cliente </em>(2a. ed.). Editorial ICB. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/113201?page=1 ',
+    },
+    {
+      referencia:
+        'Tur-Viñes, V. & Monserrat-Gauchi, J. (2014). <em> El plan estratégico de comunicación. Estructura y Funciones. Razón y Palabra,</em> (88). ',
+      link:
+        'http://www.razonypalabra.org.mx/N/N88/Varia/46_VinesGauchi_V88.pdf ',
+    },
+    {
+      referencia:
+        'Vargas, M. & Aldana de Vega, L. (2006).<em> Calidad y servicio. Conceptos y herramientas.</em> Universidad de La Sabana. Ecoe Ediciones. 2006. ',
+      link:
+        'http://190.116.26.93:2171/mdv-biblioteca-virtual/libro/documento/eJXNoCbVAnZ8hFKYtJzja._CALIDAD_Y_SERVICIOS_-_CONCEPTOS_Y_HERRAMIENTAS.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Atención al cliente',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'elemento especial del servicio que consiste en el contacto directo del personal encargado del servicio al cliente con los consumidores, compradores o clientes.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Brochure',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'folleto o documentos gráfico físico o digital, que permite mostrar los productos o servicios que ofrece una empresa.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Call center',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'centro de atención por canal telefónico que permite la unión entre la organización y el cliente.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Control de calidad',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'aplicación de técnicas y medios para lograr, mejorar o mantener la calidad de un producto o servicio.',
     },
     {
-      termino: 'Moda',
+      termino: 'Encuesta de satisfacción',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es un instrumento de recolección de información, que permite a la empresa conocer el nivel de satisfacción del cliente frente a la experiencia vivida en la recepción de un servicio o la adquisición de un producto.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Fidelización de clientes',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'conjunto de estrategias y técnicas enfocadas en lograr que los clientes que han llegado a la empresa sigan comprando de manera continua y recurrente.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Mailing',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'herramienta de comunicación que consiste en enviar información vía correo electrónico a los clientes, posibles clientes o usuarios.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Marketing digital',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'es una nueva forma de hacer mercadeo, se aplica por medio del uso de herramientas tecnológicas y por medio de canales virtuales.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Mercado',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'sitio físico o virtual donde se encuentran los clientes y los vendedores para realizar una transacción comercial.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Omnicanal',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'estrategia de comunicación aplicada con los clientes donde se usan diferentes canales de comunicación.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Producto',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'bien tangible o intangible que puede satisfacer las necesidades de un cliente.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Publicidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'información utilizada para persuadir o motivar al acercamiento o adquisición de un producto, programa o servicio.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Etiqueta y protocolo empresarial',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Educaton Colombia. (2019). Etiqueta y Protocolo Empresarial (video). YouTube. https://www.youtube.com/watch?v=VGziKUKzC4E ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=VGziKUKzC4E ',
     },
+
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Comunicación interna y externa',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'GCFAprendeLibre. (2022). Tipo de comunicación organizacional Comunicación empresarial (Video). YouTube. https://youtu.be/eb0kP8iMpWI',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/eb0kP8iMpWI',
     },
+
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Plan estratégico de comunicaciones',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Burneo, P. (2014). Metodología para realizar un Plan Estratégico de Comunicación (video). YouTube. https://www.youtube.com/watch?v=w-HlVQ0PBOg ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=w-HlVQ0PBOg ',
+    },
+
+    {
+      tema:
+        'Confidencialidad en el manejo de la información y datos personales',
+      referencia:
+        'Explicamos. (2014). La Ley de Protección de Datos (Video). YouTube. https://www.youtube.com/watch?v=Z1MAFgf6KoQ ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Z1MAFgf6KoQ ',
     },
   ],
   creditos: {

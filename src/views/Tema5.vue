@@ -6,153 +6,112 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Etiqueta y protocolo empresarial
+      h1 Canales de atención al cliente
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
 
           figure
-            img(src='@/assets/curso/temas/tema3/img-1.png')
+            img(src='@/assets/curso/temas/tema5/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 La etiqueta hace referencia a las costumbres que se deben guardar en actos públicos o privados, que normalmente están establecidos por los diferentes entes, en algunos casos existe reglamentación en aspectos como la forma de hablar, la vestimenta, el tiempo, la presentación, entre otros. Las organizaciones pueden establecer etiquetas de presentación personal (uniforme), la forma como se saluda a los clientes, los tiempos de duración en cada contacto, entre otros.
-        .cajon.color-primario.p-4.mb-4.fnd-1
-          p El protocolo es un conjunto de reglas jerárquicas y concurrentes de un acto público o privado que establece una organización, grupo o autoridad, con el objetivo de estructurar o estandarizar los procesos o procedimientos.
+        p.mb-5 Son aquellas herramientas que se usan para establecer y mantener la comunicación con los clientes internos y externos de la organización para que de esta manera se convierta en un proceso eficiente y efectivo. 
 
-    p.mb-5 Para ampliar la información, lo invitamos a ver los siguientes videos:
+    p.mb-5 Para conocer los tipos de canales de atención al cliente se invita a ver el siguiente video:
 
 
-    .row.justify-content-center.mb-5
-      .col-md-6.col-lg-6
-        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/a-BgD2Cb0po" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace video.</b> Video "Normas de etiqueta y protocolo"
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
 
-      .col-md-6.col-lg-6
-        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/4EabquNz0ME" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace video.</b>  Video "Protocolo de servicio"
 
 
     ul.lista-ul--color.mor
       li 
         i.fas.fa-square
         | 
-        h3.text-black Elementos corporativos
+        h3.text-black Respuesta a usuarios
 
-    p.mb-5 Son todos aquellos componentes que permiten que una organización u empresa sea diferente de las demás, por tanto, es vital su estructuración y de esta forma tener claridad en su direccionamiento.
+    p.mb-5 Un comprador que debe esperar para ser atendido por un largo tiempo, es un comprador insatisfecho. La ansiedad y la molestia son emociones que los clientes no tienen por qué experimentar una vez se pongan en contacto con la empresa, sin importar el canal de comunicación habilitado esperar jamás será sinónimo de un buen servicio,esto disminuye la sensación de eficiencia y calidad.
 
+    p.mb-5 A continuación, se relacionan cuatro técnicas para optimizar las respuestas a los usuarios:
+
+    figure.mb-5
+      img(src='@/assets/curso/temas/tema5/img-2.svg')
+
+    p.mb-5 Pero, independiente del canal de comunicación usado, existen muchas maneras de dar respuesta oportuna a los clientes. Conozca algunos tips para las buenas prácticas en cuanto a tipos de respuesta:
     .row.justify-content-center 
-      .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-4.fnd-8
+      .col-lg-12
+        .row.justify-content-center.mb-5   
+          .col-lg-5
+              figure.mb-5
+                img(src='@/assets/curso/temas/tema5/img-3.svg')
+          .col-lg-7      
+            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-5")
+              .row(titulo="Entender a los consumidores")
+                p Es fantástico tener diferentes canales de comunicación, sin embargo, los consumidores escogerán algunos sobre otros y es responsabilidad de la empresa identificar cuáles canales son los más usados y por qué. Para realizar esta labor, se puede elaborar encuestas y/o cuestionarios así conocer los canales de comunicación más efectivos y fortalecerlos.
+              .row(titulo="Dar una vivencia de soporte consistente")
+                p Brindar soporte por medio de diferentes canales conlleva el reto de conservar una vivencia consistente sin perder el entorno de cada comprador en todos los canales.
+                p Una solución de soporte omnicanal como Freshdesk no solo posibilita regir diversos canales de servicio al comprador a partir de una sola ventana, además ayudará a brindar una vivencia de soporte uniforme y sin interrupciones.          
+              .row(titulo="Usar respuestas preparadas, personalización y recursos de autoayuda")
+                p Las respuestas preparadas ayudan a contestar velozmente las solicitudes más comunes de los consumidores, permitiendo reducir el tiempo de espera de los usuarios y el trabajo de la empresa.        
+              .row(titulo="Capacitar a los empleados")
+                p Los agentes de servicio no solo necesitan conocer las solicitudes habituales o problemas comunes de los consumidores, sino también requieren estar al tanto de cada una de las herramientas, instrumentos, técnicas, tips y conocimientos necesarios para brindar un excelente servicio y así generar valores a partir del servicio postventa.        
+              .row(titulo="Confiar en la tecnología")
+                p Existen numerosas maneras en que la tecnología puede contribuir a optimizar y automatizar labores repetitivas en el servicio postventa. Como resultado se mejorará de forma significativa la funcionalidad de contestación hacia los clientes.
+                p Un programa de soporte técnico como Freshdesk es la mejor manera de optimizar el proceso de soporte, ya que ayudará a priorizar los inconvenientes que requieren atención y a reunir todos los canales de comunicación en un mismo panel.         
+ 
+    ul.lista-ul--color.mor
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Normativa en tiempos de respuesta
+    p.mb-5 No existe una regla que determine cuándo y cómo debe darse respuesta al cliente sobre un producto o servicio. Pero si algunos tips que serán útiles para aplicar en cualquier organización:
 
-          p La manifestación física de la marca es de gran valor para la empresa, por medio de ella, los usuarios generan un reconocimiento visual y auditivo, estos elementos construyen la imagen corporativa de la empresa, siendo esta el conjunto de creencias, actitudes, y conocimientos propios de la organización; además de ser el reflejo de cómo es una empresa, su personalidad, su calidad, su prestigio, sus valores y emociones con los cuales los clientes se pueden sentir identificados.
-
-    p.mb-3 Por el contrario, la identidad empresarial son todas aquellas estrategias que se establecen en cuanto a señales textuales y visuales que conforman el “TODO” de una marca o empresa (elementos corporativos), es la forma de proyectar la organización hacia los consumidores y la sociedad.
-    p.mb-5 Como elementos corporativos encontramos:
-
-    .tarjeta.tarjeta--gris.p-4.mb-5.ln-am
-      LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="Nombre")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-2.svg')
-          .col-md-6
-            p.text-black Nombre
-            p Es la principal identidad verbal. La marca se debe leer y entender de esta forma se puede nombrar, recordar, buscar y recomendar.
+    .row.justify-content-center.mb-5
+      SlyderA.fnd-3.fl-a.p-5(tipo="b")
+        .row
+          .col-md-8.mb-4.mb-md-0.p-y-5
+            h3 Ofrecer atención 24/7
+            p Es necesario brindar una atención constante a los clientes teniendo en cuenta el tipo de servicio y/o producto. Los consumidores necesitan recibir apoyo en cualquier hora del día, por tanto, una solución rápida puede ser un tener un chatbot. Disponer de este recurso ayudará a contestar dudas e inclusive solucionar tickets sin mediar con agentes reales, asimismo, al estar bien configurado ayudará a gestionar cotizaciones, leads o ventas y en paralelo los agentes de atención continúan con sus rutinas regulares y sin alteraciones.
         
-        .row(titulo="El isotipo")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4
             figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-3.png')
-          .col-md-6
-            p.text-black El isotipo
-            p Conocido como símbolo o imagotipo, es un elemento utilizado para identificar una marca, ya sea de una empresa, un producto, un servicio, un evento, una campaña de comunicación o de una consigna ideológica, este símbolo no incluye el nombre de la entidad identificada. 
+              img(src='@/assets/curso/temas/tema5/img-4.png')
+        .row
+          .col-md-8.mb-4.mb-md-0.p-y-5
+            h3 Crear guiones multicanal que velen por la estandarización de la calidad
+            p Las empresas deben estandarizar sus guiones de respuesta, es decir, establecer diagramas de proceso aplicados al servicio, sin importar el canal de comunicación. Todos los clientes deben ser atendidos con el mismo lenguaje, los mismos tiempos de respuesta y las mismas opciones de solución, además deben tener la misma calidad y grado de automatización.
 
-        .row(titulo="El logotipo")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4
             figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-4.png')
-          .col-md-6
-            p.text-black El logotipo
-            p Viene a ser el nombre de la empresa o marca con una tipografía y composición visual concreta.   
-
-        .row(titulo="El isologotipo")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-5.png')
-          .col-md-6
-            p.text-black El isologotipo
-            p Es un identificador gráfico que se utiliza para firmar las comunicaciones de una entidad (organización, institución, producto, servicio, etc.). El isologotipo se forma al unir un símbolo gráfico y un estímulo textual representado con signos tipográficos. 
-
-        .row(titulo="Slogan")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-6-.png')
-          .col-md-6
-            p.text-black Slogan
-            p Es una frase o palabra corta, un lema original e impactante, este suele ser fácil de recordar en los consumidores cuando es innovador y creativo, además puede hablar de los beneficios del producto.      
+              img(src='@/assets/curso/temas/tema5/img-5.png')
+        .row
+          .col-md-8.mb-4.mb-md-0.p-y-5
+            h3 Crear un ambiente de cercanía con los consumidores
+            p Un ambiente de cercanía se consigue por medio de un trato humano y cercano, que a su vez contenga soluciones y seriedad frente a las necesidades. Los resultados se verán rápidamente en calificaciones positivas del servicio y en la comunicación.
         
-        .row(titulo="Colores institucionales")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4
             figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-6.png')
-          .col-md-6
-            p.text-black Colores institucionales
-            p Los colores corporativos son un aspecto que ayudan a definir la identidad corporativa de una empresa. El uso de un color predominante o la combinación de algunos (en sus diferentes elementos, logo, página web, nombre, etc.), ayuda a definir la personalidad o el estilo de una empresa.  
+              img(src='@/assets/curso/temas/tema5/img-6.png')
+        .row
+          .col-md-8.mb-4.mb-md-0.p-y-5
+            h3 Ofrecer respuestas y resoluciones por el mismo canal inicial de contacto
+            p Si el canal de comunicación habilitado permite registrar cualquier clase de solicitud es necesario que por este mismo canal se brinde la recepción de la solicitud y la solución. Si un consumidor usa el canal de comunicación ‘chat’  no es favorable pedirle que llame por teléfono o que pase una correspondencia, seguramente se incrementará su frustración y tendrá una percepción negativa de la empresa.
 
-        .row(titulo="Misión")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4
             figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-7.png')
-          .col-md-6
-            p.text-black Misión
-            p Se define como la razón de ser del negocio, a qué se dedica, quién es, cuál es su propósito y quién es su mercado objetivo. 
+              img(src='@/assets/curso/temas/tema5/img-7.png')
+        .row
+          .col-md-8.mb-4.mb-md-0.p-y-5
+            h3 Llevar y unificar el historial de cada comprador
+            p Dado el caso en que la solución a la solicitud del cliente no se pueda dar por el mismo canal o en el mismo momento, lo que se necesita es unir toda la información del comprador (datos de contacto e historial de quejas, reclamos o dudas), en un mismo y exclusivo lugar, al cual pueda acceder cualquier agente de servicio sin importar su nivel y a partir de cualquier canal de esta forma se evitarán retrocesos.
+        
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema5/img-8.png')
 
-        .row(titulo="Visión")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-8.png')
-          .col-md-6
-            p.text-black Visión
-            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretender alcanzar en un futuro. 
-
-        .row(titulo="Políticas")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-9-.png')
-          .col-md-6
-            p.text-black Políticas
-            p Son criterios organizacionales en la que se determinan normas de cada área o unidad de la organización. Las políticas pueden ser de carácter particular (para una solo dependencia) y de carácter general (para toda la organización).  
-
-        .row(titulo="Planes")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-9.png')
-          .col-md-6
-            p.text-black Planes
-            p Son proyecciones futuras que surgen como resultado de la planeación estratégica, se estructuran a largo plazo y suelen ser de carácter corporativo. 
-       
-
-        .row(titulo="Programas")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-10.png')
-          .col-md-6
-            p.text-black Programas
-            p Se fijan con la intención de ayudar al logro de los objetivos y de los planes.   
-
-        .row(titulo="Proyectos")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-11.png')
-          .col-md-6
-            p.text-black Proyectos
-            p Son estructuras a mediano plazo que permiten una acción concreta y ayudan al logro de las metas establecidas.    
 
 
 </template>

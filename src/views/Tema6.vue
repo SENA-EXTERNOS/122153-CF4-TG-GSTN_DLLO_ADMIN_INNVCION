@@ -46,7 +46,7 @@
       h5 Tabla 1.
       span Opciones tecnológicas
 
-    .tabla-a.color-acento-contenido.mb-5 
+    .tabla-a.color-acento-contenido.mb-5.tb
       table
         caption.fnd-5 Nota. Esta tabla representa las opciones tecnológicas contemporáneas a partir de su descripción y ventajas. Tomado de “La Tecnología, Una Herramienta De Servicio Al Cliente” (p. 20), por Bueno. A, 2021.https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y
         thead.fnd-1

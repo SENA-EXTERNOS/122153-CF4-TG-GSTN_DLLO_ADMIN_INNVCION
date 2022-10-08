@@ -303,28 +303,6 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
-        numero: '5',
-        titulo: 'Fundamentación Textil',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_5_2',
-          },
-        ],
-      },
 
       {
         nombreRuta: 'tema6',
@@ -349,7 +327,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
         titulo: 'Fundamentación Textil',

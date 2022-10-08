@@ -164,152 +164,135 @@
 
           p Las normas técnicas son documentos diseñados para establecer criterios técnicos y de calidad sobre un producto, proceso o servicio. Estos documentos deben estar aprobados por los organismos competentes y reconocidos en el ámbito nacional e internacional.
     p.mb-5 Las Normas ISO 9000 se crearon para asistir a las organizaciones en la implementación y la operación de sistemas de gestión de la calidad. A continuación, se describen cada una de ellas:
-    
-    br
-    br
-    br
-    br
-    br
 
-    br
-    br
-    br
+    .row.justify-content-flex-start
+      .col-lg-1.img-c.d-none.d-lg-block
+        figure
+          img.img-h400(src='@/assets/curso/temas/tema2/img-line.svg')  
+      .col-lg-11.col-md-10
+        .row.justify-content-center.mt-45.mb-36
+          .col-lg-2.mb-sm-3
+            figure
+              img.img-136(src='@/assets/curso/temas/tema2/img-12.svg')
+          .col-lg-10
+            h3 Norma ISO 9000 
+            p Describe los fundamentos de los sistemas de gestión de la calidad y especifica la terminología de los sistemas de gestión de la calidad.
+        .row.justify-content-center.mb-36 
+          .col-lg-2.mb-sm-3
+            figure
+              img.img-136(src='@/assets/curso/temas/tema2/img-13.svg')
+          .col-lg-10
+            h3 Norma ISO 9001 
+            p Especifica los requisitos para los sistemas de gestión de la calidad aplicables a toda organización que necesite demostrar su capacidad para proporcionar productos que cumplan los requisitos de sus clientes y los reglamentarios que le sean de aplicación. El objetivo de esta norma es aumentar la satisfacción del cliente.
+        .row.justify-content-center.mb-36 
+          .col-lg-2.mb-sm-3
+            figure
+              img.img-136(src='@/assets/curso/temas/tema2/img-14.svg')
+          .col-lg-10
+            h3 Norma ISO 9004 
+            p Proporciona directrices que consideran tanto la eficacia como la eficiencia del sistema de gestión de la calidad. El objetivo de esta norma es la mejora del desempeño de la organización y la satisfacción de los clientes y de las partes interesadas.
+        .row.mb-5.justify-content-center
+          .col-lg-2.mb-sm-3
+            figure
+              img.img-136(src='@/assets/curso/temas/tema2/img-15.svg')
+          .col-lg-10
+            h3 Norma ISO 19011 
+            p Proporciona orientación relativa a las auditorías de sistemas de gestión de la calidad y de gestión ambiental.
+
+    p.mb-5 Todas ellas forman un conjunto coherente de normas de sistemas de gestión de la calidad que facilitan la mutua comprensión en el comercio nacional e internacional. 
+    p.mb-5 Dentro de los principios de calidad de esta norma técnica se identifican:
+
+    SlyderF.mb-5.d-f(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-contenido.p-4.d-f
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-16.svg' alt='AvatarTop')
+          h2.text-center Enfoque al cliente
+          p.text-center La organización depende de sus clientes y por ello se deberá comprender las necesidades actuales y futuras de los clientes y satisfacerlas.
+
+      .tarjeta.color-acento-contenido.p-4.d-flex
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop')
+        h2.text-center Liderazgo
+        p.text-center Los líderes deben establecer y mantener un ambiente interno agradable, para que las personas se involucren en el cumplimiento de los objetivos propuestos en la organización.
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-18.svg' alt='AvatarTop')
+        h2.text-center Participación del personal
+        p.text-center El personal es la esencia de la compañía, por tanto su compromiso permite que sus habilidades y competencias sean usadas en beneficio de la organización.
+
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-19.svg' alt='AvatarTop')
+        h2.text-center Enfoque basado en procesos
+        p.text-center Cuando las actividades y los recursos se relacionan como un proceso se alcanzan resultados de manera eficiente.
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-20.svg' alt='AvatarTop')
+        h2.text-center Enfoque de sistema para la gestión
+        p.text-center Identificar, entender y gestionar los procesos interrelacionados como un sistema.
+
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-21.svg' alt='AvatarTop')
+        h2.text-center Mejora continua
+        p.text-center La mejora continua debe ser un objetivo permanente en la organización.
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-22.svg' alt='AvatarTop')
+        h2.text-center Enfoque basado en hechos para la toma de decisión
+        p.text-center La toma de decisiones se debe basar en los análisis de la información y los datos.
+
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema2/img-23.svg' alt='AvatarTop')
+        h2.text-center Relaciones mutuamente beneficiosas con el proveedor
+        p.text-center Las empresas y sus proveedores deben establecer relaciones sólidas de mutuo beneficio.
 
 
-    p.mb-5 Para ampliar la información, lo invitamos a ver los siguientes videos:
-
-
-    .row.justify-content-center.mb-5
-      .col-md-6.col-lg-6
-        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/a-BgD2Cb0po" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace video.</b> Video "Normas de etiqueta y protocolo"
-
-      .col-md-6.col-lg-6
-        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/4EabquNz0ME" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace video.</b>  Video "Protocolo de servicio"
 
 
     ul.lista-ul--color.mor
       li 
         i.fas.fa-square
         | 
-        h3.text-black Elementos corporativos
+        h3.text-black Procedimientos y políticas
+    p.mb-5 Teniendo como base la norma ISO 9001, dentro de las organizaciones se deben establecer procesos y procedimientos enfocados en el servicio al cliente, los cuales se describen a continuación:
 
-    p.mb-5 Son todos aquellos componentes que permiten que una organización u empresa sea diferente de las demás, por tanto, es vital su estructuración y de esta forma tener claridad en su direccionamiento.
+      
+    ImagenInfografica.t-w.color-acento-botones.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/tema2/img-24.svg')
 
-    .row.justify-content-center 
-      .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-4.fnd-8
+      .tarjeta.color-acento-contenido.p-3(x="50%" y="6.3%" numero="4")
+        .h5.mb-2 Finalización y despedida
+        p La despedida debe generar una sensación positiva, cortés, amable y constatar que el problema o necesidad quedó satisfecha.
 
-          p La manifestación física de la marca es de gran valor para la empresa, por medio de ella, los usuarios generan un reconocimiento visual y auditivo, estos elementos construyen la imagen corporativa de la empresa, siendo esta el conjunto de creencias, actitudes, y conocimientos propios de la organización; además de ser el reflejo de cómo es una empresa, su personalidad, su calidad, su prestigio, sus valores y emociones con los cuales los clientes se pueden sentir identificados.
+      .tarjeta.color-acento-contenido.p-3(x="8.6%" y="50%" numero="1")
+        .h5.mb-2 Establecimiento de contacto
+        p El primer contacto con el cliente debe ser un momento estratégico, con un trato diligente, eficiente y amable.
 
-    p.mb-3 Por el contrario, la identidad empresarial son todas aquellas estrategias que se establecen en cuanto a señales textuales y visuales que conforman el “TODO” de una marca o empresa (elementos corporativos), es la forma de proyectar la organización hacia los consumidores y la sociedad.
-    p.mb-5 Como elementos corporativos encontramos:
+      .tarjeta.color-acento-contenido.p-3(x="92.9%" y="49.8%" numero="3")
+        .h5.mb-2 Resolución de problemas
+        p Después de establecida la conexión positiva con el cliente y conocer su necesidad, se debe brindar una solución oportuna, exponerle cada situación por pequeña que sea y hacerle sentir que la organización se interesa por ofrecer una solución eficiente.
 
-    .tarjeta.tarjeta--gris.p-4.mb-5.ln-am
-      LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="Nombre")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-2.svg')
-          .col-md-6
-            p.text-black Nombre
-            p Es la principal identidad verbal. La marca se debe leer y entender de esta forma se puede nombrar, recordar, buscar y recomendar.
-        
-        .row(titulo="El isotipo")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-3.png')
-          .col-md-6
-            p.text-black El isotipo
-            p Conocido como símbolo o imagotipo, es un elemento utilizado para identificar una marca, ya sea de una empresa, un producto, un servicio, un evento, una campaña de comunicación o de una consigna ideológica, este símbolo no incluye el nombre de la entidad identificada. 
+      .tarjeta.color-acento-contenido.p-3(x="50%" y="93.6%" numero="2")
+        .h5.mb-2 Escucha activa y recopilación de la información
+        p El cliente debe sentirse escuchado y que sus necesidades son importantes. Una buena estrategia es hacerle preguntas precisas para profundizar en su necesidad.
 
-        .row(titulo="El logotipo")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-4.png')
-          .col-md-6
-            p.text-black El logotipo
-            p Viene a ser el nombre de la empresa o marca con una tipografía y composición visual concreta.   
 
-        .row(titulo="El isologotipo")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-5.png')
-          .col-md-6
-            p.text-black El isologotipo
-            p Es un identificador gráfico que se utiliza para firmar las comunicaciones de una entidad (organización, institución, producto, servicio, etc.). El isologotipo se forma al unir un símbolo gráfico y un estímulo textual representado con signos tipográficos. 
 
-        .row(titulo="Slogan")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-6-.png')
-          .col-md-6
-            p.text-black Slogan
-            p Es una frase o palabra corta, un lema original e impactante, este suele ser fácil de recordar en los consumidores cuando es innovador y creativo, además puede hablar de los beneficios del producto.      
-        
-        .row(titulo="Colores institucionales")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-6.png')
-          .col-md-6
-            p.text-black Colores institucionales
-            p Los colores corporativos son un aspecto que ayudan a definir la identidad corporativa de una empresa. El uso de un color predominante o la combinación de algunos (en sus diferentes elementos, logo, página web, nombre, etc.), ayuda a definir la personalidad o el estilo de una empresa.  
 
-        .row(titulo="Misión")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-7.png')
-          .col-md-6
-            p.text-black Misión
-            p Se define como la razón de ser del negocio, a qué se dedica, quién es, cuál es su propósito y quién es su mercado objetivo. 
 
-        .row(titulo="Visión")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-8.png')
-          .col-md-6
-            p.text-black Visión
-            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretender alcanzar en un futuro. 
 
-        .row(titulo="Políticas")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-9-.png')
-          .col-md-6
-            p.text-black Políticas
-            p Son criterios organizacionales en la que se determinan normas de cada área o unidad de la organización. Las políticas pueden ser de carácter particular (para una solo dependencia) y de carácter general (para toda la organización).  
-
-        .row(titulo="Planes")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-9.png')
-          .col-md-6
-            p.text-black Planes
-            p Son proyecciones futuras que surgen como resultado de la planeación estratégica, se estructuran a largo plazo y suelen ser de carácter corporativo. 
-       
-
-        .row(titulo="Programas")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-10.png')
-          .col-md-6
-            p.text-black Programas
-            p Se fijan con la intención de ayudar al logro de los objetivos y de los planes.   
-
-        .row(titulo="Proyectos")
-          .col-md-6.mb-4.mb-md-0
-            figure
-              img.img-400(src='@/assets/curso/temas/tema3/img-11.png')
-          .col-md-6
-            p.text-black Proyectos
-            p Son estructuras a mediano plazo que permiten una acción concreta y ayudan al logro de las metas establecidas.    
 
 
 </template>

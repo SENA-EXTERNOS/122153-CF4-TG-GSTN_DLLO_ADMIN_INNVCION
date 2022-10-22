@@ -38,7 +38,7 @@
     p.mb-5 A continuación, se relacionan cuatro técnicas para optimizar las respuestas a los usuarios:
 
     figure.mb-5
-      img(src='@/assets/curso/temas/tema5/img-2.svg')
+      img(src='@/assets/curso/temas/tema5/img-2-.svg')
 
     p.mb-5 Pero, independiente del canal de comunicación usado, existen muchas maneras de dar respuesta oportuna a los clientes. Conozca algunos tips para las buenas prácticas en cuanto a tipos de respuesta:
     .row.justify-content-center 
@@ -48,12 +48,12 @@
               figure.mb-5
                 img(src='@/assets/curso/temas/tema5/img-3.svg')
           .col-lg-7      
-            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-5")
+            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-5-")
               .row(titulo="Entender a los consumidores")
                 p Es fantástico tener diferentes canales de comunicación, sin embargo, los consumidores escogerán algunos sobre otros y es responsabilidad de la empresa identificar cuáles canales son los más usados y por qué. Para realizar esta labor, se puede elaborar encuestas y/o cuestionarios así conocer los canales de comunicación más efectivos y fortalecerlos.
               .row(titulo="Dar una vivencia de soporte consistente")
                 p Brindar soporte por medio de diferentes canales conlleva el reto de conservar una vivencia consistente sin perder el entorno de cada comprador en todos los canales.
-                p Una solución de soporte omnicanal como Freshdesk no solo posibilita regir diversos canales de servicio al comprador a partir de una sola ventana, además ayudará a brindar una vivencia de soporte uniforme y sin interrupciones.          
+                p Una solución de soporte omnicanal como <em>Freshdesk </em>no solo posibilita regir diversos canales de servicio al comprador a partir de una sola ventana, además ayudará a brindar una vivencia de soporte uniforme y sin interrupciones.          
               .row(titulo="Usar respuestas preparadas, personalización y recursos de autoayuda")
                 p Las respuestas preparadas ayudan a contestar velozmente las solicitudes más comunes de los consumidores, permitiendo reducir el tiempo de espera de los usuarios y el trabajo de la empresa.        
               .row(titulo="Capacitar a los empleados")
@@ -74,7 +74,7 @@
         .row
           .col-md-8.mb-4.mb-md-0.p-y-5
             h3 Ofrecer atención 24/7
-            p Es necesario brindar una atención constante a los clientes teniendo en cuenta el tipo de servicio y/o producto. Los consumidores necesitan recibir apoyo en cualquier hora del día, por tanto, una solución rápida puede ser un tener un chatbot. Disponer de este recurso ayudará a contestar dudas e inclusive solucionar tickets sin mediar con agentes reales, asimismo, al estar bien configurado ayudará a gestionar cotizaciones, leads o ventas y en paralelo los agentes de atención continúan con sus rutinas regulares y sin alteraciones.
+            p Es necesario brindar una atención constante a los clientes teniendo en cuenta el tipo de servicio y/o producto. Los consumidores necesitan recibir apoyo en cualquier hora del día, por tanto, una solución rápida puede ser un tener un<em> chatbot.</em> Disponer de este recurso ayudará a contestar dudas e inclusive solucionar <em>tickets</em> sin mediar con agentes reales, asimismo, al estar bien configurado ayudará a gestionar cotizaciones, <em>leads </em>o ventas y en paralelo los agentes de atención continúan con sus rutinas regulares y sin alteraciones.
         
           .col-md-4
             figure

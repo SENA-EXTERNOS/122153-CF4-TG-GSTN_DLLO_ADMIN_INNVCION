@@ -15,9 +15,9 @@
             img(src='@/assets/curso/temas/tema6/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 La etiqueta hace referencia a las costumbres que se deben guardar en actos públicos o privados, que normalmente están establecidos por los diferentes entes, en algunos casos existe reglamentación en aspectos como la forma de hablar, la vestimenta, el tiempo, la presentación, entre otros. Las organizaciones pueden establecer etiquetas de presentación personal (uniforme), la forma como se saluda a los clientes, los tiempos de duración en cada contacto, entre otros.
+        p.mb-5 La aplicación de la tecnología en el servicio al cliente se ha visto más necesaria en la actualidad, debido a que los consumidores (clientes) están más conectados y requieren una atención rápida, personalizada y permanente.
         .cajon.color-acento-botones.p-4.mb-4.fnd-8
-          p Las herramientas tecnológicas pueden ser aplicadas en todas las áreas relacionadas con la atención al cliente, desde la aplicación de encuestas de satisfacción online, para obtener retroalimentación del cliente, hasta el uso de plataformas de Customer Experience, aplicaciones móviles, herramientas de inteligencia artificial, entre otros.
+          p Las herramientas tecnológicas pueden ser aplicadas en todas las áreas relacionadas con la atención al cliente, desde la aplicación de encuestas de satisfacción online, para obtener retroalimentación del cliente, hasta el uso de plataformas de <em>Customer Experience,</em> aplicaciones móviles, herramientas de inteligencia artificial, entre otros.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -62,12 +62,12 @@
             td Disminución en los tiempos de respuesta, clasificación de necesidades, aumento de la productividad, disminución de tasas de error y reprocesos.
 
           tr
-            td.text-black Chat Bots
-            td Bot de atención automatizado para el servicio al cliente.
+            td.text-black <em>Chat Bots</em>
+            td <em>Bot</em> de atención automatizado para el servicio al cliente.
             td Facilita la autogestión de los clientes y contribuye a la disminución de tiempos de respuesta.
 
           tr
-            td.text-black Motores Insight
+            td.text-black Motores<em> Insight</em>
             td Estructuración de algoritmos para procesamientos de datos y fuentes a grandes velocidades creando ecosistemas de registro.
             td Permite el análisis de información estructurada y no estructurada en línea, además predice el comportamiento de los clientes.
 
@@ -127,9 +127,9 @@
                 img.img-400(src='@/assets/curso/temas/tema6/img-3.png')
                      
           .col-md-6.mb-4.mb-md-0
-            h3 Enterprise Resource Planning <br> (Planeamiento de Recursos de la Empresa)
-            p Es un software que unen en un solo sitio los diferentes procesos y datos de la organización.
-            p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo just in time.
+            h3 <em>Enterprise Resource Planning</em> <br> (Planeamiento de Recursos de la Empresa)
+            p Es un <em>software</em> que unen en un solo sitio los diferentes procesos y datos de la organización.
+            p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo<em> just in time.</em>
             p La finalidad de un ERP es minimizar los stocks innecesarios hasta eliminarlos, así evitar los costos de almacenamiento.
         
       .py-3.py-md-4(titulo="CRM")
@@ -139,8 +139,8 @@
                 img.img-400(src='@/assets/curso/temas/tema6/img-4.png')
 
           .col-md-6
-            h3 Customer Relationship Management <br> (Administración de Interacción con el Cliente)
-            p Customer Relationship Management (Administración de Interacción con el Cliente) es un software que automatiza cada una de las funcionalidades relativas al contacto con los consumidores, permitiendo que las empresas recolecten y almacenen los datos de contacto, las preferencias de los consumidores, el histórico de compras, entre otros.
+            h3 <em>Customer Relationship Management </em><br> (Administración de Interacción con el Cliente)
+            p <em>Customer Relationship Management</em> (Administración de Interacción con el Cliente) es un<em> software</em> que automatiza cada una de las funcionalidades relativas al contacto con los consumidores, permitiendo que las empresas recolecten y almacenen los datos de contacto, las preferencias de los consumidores, el histórico de compras, entre otros.
             br
             p Con el uso de un CRM la organización puede contactar a los consumidores para acciones concretas, con el objetivo de atender a las necesidades de los clientes de forma anticipada.
         
@@ -150,8 +150,8 @@
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-5.png')        
           .col-md-6.mb-4.mb-md-0
-            h3 Supply Chain Management <br> (Gestión de la Cadena de Suministro)
-            p El objetivo de los sistemas Supply Chain Management (Gestión de la Cadena de Suministro) es producir costo para el consumidor, satisfaciéndolo una vez que él consigue un producto o servicio.
+            h3 <em>Supply Chain Management</em> <br> (Gestión de la Cadena de Suministro)
+            p El objetivo de los sistemas<em> Supply Chain Management </em>(Gestión de la Cadena de Suministro) es producir costo para el consumidor, satisfaciéndolo una vez que él consigue un producto o servicio.
             br 
             p Este sistema integra los datos relativos a productores, proveedores y puntos de venta de comercialización, garantizando que los productos sean entregados en las porciones primordiales y en los plazos convenientes, evitando la carencia de mercancía o el exceso de stock.
       .py-3.py-md-4(titulo="SIG")
@@ -172,7 +172,7 @@
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-1-
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4
-                p.text-black Una base de datos es la materia prima para la interacción con los clientes y las campañas de marketing, debido a que posibilita la utilización de una comunicación personalizada y dirigida.
+                p.text-black Una base de datos es la materia prima para la interacción con los clientes y las campañas de<em> marketing,</em> debido a que posibilita la utilización de una comunicación personalizada y dirigida.
             .col-lg-8.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4.mb-sm-3
                 p Las bases de consumidores se caracterizan por:

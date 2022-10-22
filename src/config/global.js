@@ -42,21 +42,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Aspectos generales de la contabilidad',
+        titulo: 'El cliente',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'El servicio',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Etiqueta y protocolo empresarial',
         desarrolloContenidos: true,
       },
 
@@ -64,13 +64,13 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Fundamentación Textil',
+        titulo: 'La comunicación empresarial',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'La contabilidad y su clasificación',
+            titulo: 'Comunicación interna y externa',
             hash: 't_4_1',
           },
           {
@@ -92,7 +92,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Canales de atención al cliente',
         desarrolloContenidos: true,
       },
 
@@ -100,14 +100,14 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Medios tecnológicos en el servicio al cliente',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Normativa seguridad y salud en el trabajo',
         desarrolloContenidos: true,
       },
     ],
@@ -170,12 +170,6 @@ export default {
         'https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y ',
     },
 
-    {
-      referencia:
-        'Bueno, A. (2021). <em>La tecnología, una herramienta de servicio al cliente </em>(Trabajo de grado, Universidad Militar Nueva Granada). Repositorio Universidad Militar Nueva Granada. ',
-      link:
-        'https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y ',
-    },
     {
       referencia:
         'Camacho Castellanos, J. C. (2012).<em> Marketing de servicios.</em> B - EUMED.',

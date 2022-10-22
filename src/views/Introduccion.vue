@@ -10,7 +10,7 @@
       h1 Introducción
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.bl-izq
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/portada/img-intro.png')})`}"
           )

@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Etiqueta y protocolo empresarial
+      h1 La comunicación empresarial
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-6
@@ -26,18 +26,22 @@
         p.mb-5 Para ampliar la información, se invita a revisar el material complementario donde encontrará el video <br> <b>“Tipos de comunicación organizacional | Comunicación empresarial”.</b>
         .row.justify-content-center
           .col-md-6.col-lg-6
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=w-HlVQ0PBOg" target="_blank")
+            a.anexo.mb-4.mb-lg-0.fnd-12(href="https://www.youtube.com/watch?v=w-HlVQ0PBOg" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace video.</b> “Tipos de comunicación organizacional”
+              .anexo__texto.fnd-12
+                p.mb-0.azz 
+                  b.azz Enlace video.
+                  | “Tipos de comunicación organizacional”
 
           .col-md-6.col-lg-6
             a.anexo.mb-4.mb-lg-0(href="https://youtu.be/eb0kP8iMpWI" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace video.</b> “Comunicación empresarial”
+              .anexo__texto.fnd-12
+                p.mb-0.azz 
+                  b.azz Enlace video.
+                  | “Comunicación empresarial”
 
 
       .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Comunicación informal")
@@ -46,7 +50,7 @@
     Separador   
 
     #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1 La contabilidad y su clasificación
+      h2 4.1 Comunicación interna y externa
 
     p.mb-5 La comunicación interna hace mención a toda la información que se genera, manipula o utiliza dentro de la organización, es considerada como una herramienta gerencial aplicada en todos los niveles jerárquicos con el propósito de alcanzar todos los objetivos estratégicos, misionales, operativos, culturales y comportamentales de la empresa. Su desarrollo se da de acuerdo a la aplicación del “Proceso de comunicación organizacional formal”, como se presenta en la siguiente imagen:
     .titulo-sexto.color-acento-contenido                
@@ -127,7 +131,7 @@
       li 
         i.fas.fa-square
         | 
-        h3.text-black Elementos corporativos
+        h3.text-black Análisis del entorno interno y externo
 
     p.mb-5 En este primer paso se debe realizar una compilación de todos los aspectos que incluye la organización en temas de comunicación, se deben investigar y analizar aspectos como el estado actual de todos los procesos de comunicación dentro de la organización, tanto su pertinencia como sus falencias. 
     p.mb-5 Algunos aspectos internos a analizar son:
@@ -153,10 +157,7 @@
     p.mb-5 Es necesario enfatizar que los objetivos de comunicación no se deben establecer sin antes revisar y tener en cuenta los objetivos generales plasmados en la planeación estratégica. Por ejemplo, si un objetivo estratégico manifiesta “Aumento de las ventas en un 40%”, se debe establecer desde el área de comunicaciones un objetivo que pueda apoyar y permitir el logro de dicho objetivo estratégico.
 
 
-    .row.justify-content-center
-      .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-5.fnd-8
-          p El protocolo es un conjunto de reglas jerárquicas y concurrentes de un acto público o privado que establece una organización, grupo o autoridad, con el objetivo de estructurar o estandarizar los procesos o procedimientos.
+ 
 
     p.mb-5 De igual forma, se debe tener presente la información suministrada por el análisis de la situación o diagnóstico de la empresa, en ella se encontrarán las necesidades, las falencias y oportunidades existentes en la organización; a partir de este análisis se deben establecer objetivos que busquen mitigar estas necesidades y aprovechen las oportunidades y fortalezas identificadas.
 
@@ -199,7 +200,7 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular De acuerdo con Tur-Viñes, V. & Monserrat-Gauchi, J. (2014): “la finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación on-line, marketing directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, branded content, etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos”. (p. 13).
+            h2.text-regular De acuerdo con Tur-Viñes, V. & Monserrat-Gauchi, J. (2014): “la finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación <em>on-line, marketing</em> directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, <em>branded content,</em> etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos”. (p. 13).
 
             i.fas.fa-quote-right
           .row.align-items-end
@@ -266,7 +267,7 @@
                   h3.mb-1 Video “La Ley de Protección de Datos”
                   p.text-small Para profundizar esta información, se invita a revisar el material complementario donde encontrará el video “La Ley de Protección de Datos”.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/embed/2L91WMqw96A'" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/watch?v=Z1'" target="_blank")
                     span Ver video
                     i.fas.fa-video
 

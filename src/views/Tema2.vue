@@ -28,8 +28,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Video “La Ley de Protección de Datos”
-                  p.text-small Para profundizar esta información, se invita a revisar el material complementario donde encontrará el video “La Ley de Protección de Datos”.  
+                  p.mb-1.text-black Servicio al cliente
+                  p.text-small Para complementar el tema lo invitamos a ver el video “Servicio al cliente”. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/embed/2L91WMqw96A'" target="_blank")
                     span Ver video
@@ -144,7 +144,7 @@
             img(src='@/assets/curso/temas/tema2/img-11.svg')
 
       .col-md-6.col-lg-8
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-5")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-5-")
               .row(titulo="Cliente objetivo")
                 p Se debe tener claro cuál es el mercado al que se pretende llegar (necesidades y características) con la estructuración del portafolio.
               .row(titulo="Contenido")

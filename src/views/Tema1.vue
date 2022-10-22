@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Aspectos generales de la contabilidad
+      h1 El cliente 
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
@@ -28,11 +28,11 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 El cliente y tipo
-                  p.text-small Para profundizar en la definición de cliente, lo invitamos a ver el video “El cliente y tipo”.  
+                  p.text-small Para profundizar en la definición de cliente, lo invitamos a ver el video <b>“El cliente y tipo”. </b> 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/QUE ES UNA CUENTA.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                  a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/MKWwZYf8hSA')" target="_blank")
+                    span Ver video
+                    i.fas.fa-video
 
     p.mb-3 La planeación organizacional se debe establecer según los resultados obtenidos en la  identificación y análisis de las características de los clientes y la determinación de sus perfiles;  de este modo, se pueden establecer acciones de atención específicas.
 
@@ -99,7 +99,7 @@
 
     p.mb-5 Las empresas pueden tener diferentes tipos de clientes externos. Algunos de ellos son:
 
-    .tarjeta.tarjeta--gris.p-4.mb-5.ln-am
+    .tarjeta.tarjeta--gris.p-4.px-5.mb-5.ln-am.fnd-3
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="Clientes directos")
           .col-md-6.mb-4.mb-md-0

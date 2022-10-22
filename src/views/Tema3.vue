@@ -48,14 +48,15 @@
 
     .row.justify-content-center 
       .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-4.fnd-8
+        .cajon.color-acento-botones.p-4.mb-4
 
           p La manifestación física de la marca es de gran valor para la empresa, por medio de ella, los usuarios generan un reconocimiento visual y auditivo, estos elementos construyen la imagen corporativa de la empresa, siendo esta el conjunto de creencias, actitudes, y conocimientos propios de la organización; además de ser el reflejo de cómo es una empresa, su personalidad, su calidad, su prestigio, sus valores y emociones con los cuales los clientes se pueden sentir identificados.
 
     p.mb-3 Por el contrario, la identidad empresarial son todas aquellas estrategias que se establecen en cuanto a señales textuales y visuales que conforman el “TODO” de una marca o empresa (elementos corporativos), es la forma de proyectar la organización hacia los consumidores y la sociedad.
+    p.mb-3 <b>Recuerde:</b> existe una diferencia primordial entre “imagen corporativa” e “identidad corporativa”, la primera es la percepción pública de la empresa y la segunda es la forma en que la empresa quiere que el público la perciba.
     p.mb-5 Como elementos corporativos encontramos:
 
-    .tarjeta.tarjeta--gris.p-4.mb-5.ln-am
+    .tarjeta.tarjeta--gris.p-4.mb-5.ln-am.fnd-3.px-5
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="Nombre")
           .col-md-6.mb-4.mb-md-0
@@ -89,12 +90,12 @@
             p.text-black El isologotipo
             p Es un identificador gráfico que se utiliza para firmar las comunicaciones de una entidad (organización, institución, producto, servicio, etc.). El isologotipo se forma al unir un símbolo gráfico y un estímulo textual representado con signos tipográficos. 
 
-        .row(titulo="Slogan")
+        .row(titulo="<em>Slogan</em>")
           .col-md-6.mb-4.mb-md-0
             figure
               img.img-400(src='@/assets/curso/temas/tema3/img-6-.png')
           .col-md-6
-            p.text-black Slogan
+            p.text-black <em>Slogan</em>
             p Es una frase o palabra corta, un lema original e impactante, este suele ser fácil de recordar en los consumidores cuando es innovador y creativo, además puede hablar de los beneficios del producto.      
         
         .row(titulo="Colores institucionales")

@@ -26,7 +26,8 @@
         | 
         h3.text-black Posturas ergonómicas
 
-    p.mb-5 Las posturas de trabajo son uno de los componentes asociados a los trastornos músculo esqueléticos, cuya aparición es dependiente de diversos puntos entre los cuales se destaca lo forzada que sea la postura, del tiempo que se mantenga, la frecuencia con que se realice o de la duración en exposición a posturas semejantes durante la jornada.        
+    p.mb-4 Las posturas de trabajo son uno de los componentes asociados a los trastornos músculo esqueléticos, cuya aparición es dependiente de diversos puntos entre los cuales se destaca lo forzada que sea la postura, del tiempo que se mantenga, la frecuencia con que se realice o de la duración en exposición a posturas semejantes durante la jornada.    
+    p.mb-5 Para evitar cualquier dolencia o perjuicio en la salud física por posiciones incorrectas en el sitio de trabajo, se invita a tener en cuenta las siguientes recomendaciones:    
     .row.justify-content-center.mb-5
       SlyderA.fnd-3.fl-a.p-5(tipo="b")
         .row
@@ -92,13 +93,13 @@
 
     p Las exigencias físicas de una jornada implican componentes de peligros ergonómicos, por ejemplo posturas fijas, obligadas y repetitivas, las mismas que están afectando de forma rápida el sistema músculo esquelético.
     p La actividad física compensatoria es la acción de movimientos eficientes que controlan, disminuyen y eliminan la tensión secundaria de trabajos obligados, malas posturas y jornadas continúas de más de 3 horas donde se trabaje en una postura pasiva.
-    p Los ejercicios compensatorios también son conocidos como pausas activas para mejorar la movilidad, funcionamiento y confort de la salud física, mental y emocional. Demanera complementaria colaboran con la prevención de alteraciones musculares, dolores e indisposiciones laborales.
+    p Los ejercicios compensatorios también son conocidos como pausas activas para mejorar la movilidad, funcionamiento y confort de la salud física, mental y emocional. De manera complementaria colaboran con la prevención de alteraciones musculares, dolores e indisposiciones laborales.
     p.mb-5 La orientación de una pausa activa debe ser a las extremidades menores e inferiores como el cuello, la espalda, la cintura escapular y la zona torácica que han de ser las que más recibe el efecto de cargas en el trabajo.
 
 
     .row.justify-content-center 
       .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-4.fnd-8
+        .cajon.color-acento-botones.p-4.mb-4
 
           p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 

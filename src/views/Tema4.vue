@@ -35,7 +35,7 @@
                   | “Tipos de comunicación organizacional”
 
           .col-md-6.col-lg-6
-            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/eb0kP8iMpWI" target="_blank")
+            a.anexo.mb-4.mb-lg-0.fnd-12(href="https://youtu.be/eb0kP8iMpWI" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto.fnd-12

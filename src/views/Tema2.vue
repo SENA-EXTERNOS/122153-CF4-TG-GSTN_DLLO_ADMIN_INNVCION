@@ -29,7 +29,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-1.text-black Servicio al cliente
-                  p.text-small Para complementar el tema lo invitamos a ver el video “Servicio al cliente”. 
+                  p.text-small Para complementar el tema lo invitamos a ver el video <b>“Servicio al cliente”. </b>
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/embed/2L91WMqw96A'" target="_blank")
                     span Ver video

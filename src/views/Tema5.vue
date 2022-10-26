@@ -60,7 +60,7 @@
                 p Los agentes de servicio no solo necesitan conocer las solicitudes habituales o problemas comunes de los consumidores, sino también requieren estar al tanto de cada una de las herramientas, instrumentos, técnicas, tips y conocimientos necesarios para brindar un excelente servicio y así generar valores a partir del servicio postventa.        
               .row(titulo="Confiar en la tecnología")
                 p Existen numerosas maneras en que la tecnología puede contribuir a optimizar y automatizar labores repetitivas en el servicio postventa. Como resultado se mejorará de forma significativa la funcionalidad de contestación hacia los clientes.
-                p Un programa de soporte técnico como Freshdesk es la mejor manera de optimizar el proceso de soporte, ya que ayudará a priorizar los inconvenientes que requieren atención y a reunir todos los canales de comunicación en un mismo panel.         
+                p Un programa de soporte técnico como<em> Freshdesk</em> es la mejor manera de optimizar el proceso de soporte, ya que ayudará a priorizar los inconvenientes que requieren atención y a reunir todos los canales de comunicación en un mismo panel.         
  
     ul.lista-ul--color.mor
       li 

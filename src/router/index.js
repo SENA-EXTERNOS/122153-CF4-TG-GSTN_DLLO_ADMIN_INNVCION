@@ -71,6 +71,12 @@ const router = new VueRouter({
       ],
     },
     {
+      path: '/sintesis',
+      name: 'sintesis',
+      component: () =>
+        import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
+    },
+    {
       path: '/actividad',
       name: 'actividad',
       component: () =>

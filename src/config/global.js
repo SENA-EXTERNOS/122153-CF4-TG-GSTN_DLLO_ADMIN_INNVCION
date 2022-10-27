@@ -59,7 +59,12 @@ export default {
         titulo: 'Etiqueta y protocolo empresarial',
         desarrolloContenidos: true,
       },
-
+      {
+        nombreRuta: 'sintesis',
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',

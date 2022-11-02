@@ -31,7 +31,7 @@
                   p.mb-1.text-black Servicio al cliente
                   p.text-small Para complementar el tema lo invitamos a ver el video <b>“Servicio al cliente”. </b>
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/embed/2L91WMqw96A'" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/watch?v=EXp6G1ZZkpg'" target="_blank")
                     span Ver video
                     i.fas.fa-video
 

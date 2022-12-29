@@ -4,9 +4,13 @@ export default {
       'Los clientes, el servicio y la comunicación organizacional',
     descripcionCurso:
       'Prestar un excelente servicio al cliente se ha convertido en la llave estratégica para la mayoría de los negocios, pues conseguir y mantener los clientes implica calidad, imagen, rentabilidad y competitividad. Es así como este componente formativo presenta una descripción desglosada sobre cada uno de los elementos necesarios para la estructuración de un plan de servicios empresarial completo.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
+      },
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-4-.svg'),

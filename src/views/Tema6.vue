@@ -21,7 +21,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.justify-content-center   
+        .row.justify-content-center
           .col-lg-8
             p.mb-5 Entre esta amplia gama de soluciones tecnológicas, lo importante es elegir aquella que aporte más beneficios para los clientes, así que antes de adquirir una herramienta, se debe definir claramente cuáles son los objetivos que persigue la empresa y los requisitos para poder alcanzarlos.
           .col-lg-4
@@ -32,23 +32,25 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular De acuerdo con Bueno A. (2021), el consumidor de hoy en día es multicanal, y así como cuenta con gran diversidad de opciones de productos y servicios, prefiere contar, a su disposición, con varios canales de comunicación disponible cuando desee contactarse.
+            h2.text-regular El consumidor actual es multicanal, y como cuenta con gran diversidad de opciones de productos y servicios, prefiere tener, a su disposición, varios canales de comunicación disponibles para cuando desee contactarse.
+
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
-              .bloque-texto-e__autor 
+              .bloque-texto-e__autor
                 .h3.mb-0 Bueno A. (2021)
 
-    p.mb-5 En la siguiente tabla se identificarán algunas de las diferentes opciones tecnológicas que las empresas pueden utilizar para fortalecer sus canales de comunicación y servicio.
+    p.mb-5 En la siguiente tabla, se identifican algunas de las diferentes opciones tecnológicas, que las empresas pueden utilizar para fortalecer sus canales de comunicación y servicio.
 
-    .titulo-sexto.color-acento-contenido                
+    .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Opciones tecnológicas
 
     .tabla-a.color-acento-contenido.mb-5.tb
       table
-        caption.fnd-5 Nota. Esta tabla representa las opciones tecnológicas contemporáneas a partir de su descripción y ventajas. Tomado de “La Tecnología, Una Herramienta De Servicio Al Cliente” (p. 20), por Bueno. A, 2021.https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y
+        caption.fnd-5 Nota.  Nota. Esta tabla representa las opciones tecnológicas contemporáneas a partir de su descripción y ventajas. Tomado de “La Tecnología, Una Herramienta De Servicio Al Cliente” (p. 20), por Bueno. A, 2021.https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y
+
         thead.fnd-1
           tr
             th Tecnología
@@ -58,35 +60,33 @@
         tbody
           tr
             td.text-black Automatización robótica de procesos (RPA)
-            td Creación y automatización de procesos operativas a través de un robot.
+            td Creación y automatización de procesos operativos, a través de un robot.
             td Disminución en los tiempos de respuesta, clasificación de necesidades, aumento de la productividad, disminución de tasas de error y reprocesos.
 
           tr
-            td.text-black <em>Chat Bots</em>
-            td <em>Bot</em> de atención automatizado para el servicio al cliente.
+            td.text-black <em>Chatbots</em>
+            td <em>Software</em> capaz de mantener una conversación en tiempo real por texto o por voz. Atención automatizada para el servicio al cliente.
             td Facilita la autogestión de los clientes y contribuye a la disminución de tiempos de respuesta.
 
           tr
-            td.text-black Motores<em> Insight</em>
-            td Estructuración de algoritmos para procesamientos de datos y fuentes a grandes velocidades creando ecosistemas de registro.
+            td.text-black Motores <em>Insight</em>
+            td Estructuración de algoritmos para procesamientos de datos y fuentes, a grandes velocidades, creando ecosistemas de registro.
             td Permite el análisis de información estructurada y no estructurada en línea, además predice el comportamiento de los clientes.
 
           tr
-            td.text-black Sistema de reconocimiento de análisis de voz.
-            td Aplicación de reconocimiento de voz soportas en IA para el análisis de los sentimientos.
+            td.text-black Sistema de reconocimiento de análisis de voz
+            td Aplicación de reconocimiento de voz, soportada en IA para el análisis de los sentimientos.
             td Autenticación de clientes, conocer mejor al cliente, anticiparse a sus necesidades.
 
           tr
             td.text-black Asistente Virtual (IVAS)
-            td Asistente (robot) que puede interactuar de forma natural basado en lenguaje conversacional con el cliente.
+            td Asistente (robot) que puede interactuar de forma natural, basado en lenguaje conversacional con el cliente.
             td Autoaprendizaje todo el tiempo, proporciona nuevas experiencias personalizadas al cliente.
 
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Sistema de información
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Sistema de información
 
     .row.justify-content-center.mb-5
       .col-lg-7
@@ -98,10 +98,10 @@
             i.fas.fa-quote-right
           .row.align-items-end
             .col
-              .bloque-texto-e__autor 
+              .bloque-texto-e__autor
                 .h3.mb-0 (O´Brien, 2001). (2021)
 
-        p.mb-5 Dentro de las organizaciones se considera que los sistemas de información permiten mejorar la efectividad gerencial, son de gran provecho para apoyar la planeación, organización, toma de decisiones, coordinación y el control, ayudan a los gerentes y al personal a analizar, detectar y solucionar problemas, concebir asuntos complejos y crear nuevos productos y/o servicios. 
+        p.mb-5 Dentro de las organizaciones se considera que los sistemas de información permiten mejorar la efectividad gerencial, son de gran provecho para apoyar la planeación, organización, toma de decisiones, coordinación y el control, ayudan a los gerentes y al personal a analizar, detectar y solucionar problemas, concebir asuntos complejos y crear nuevos productos y/o servicios.
       .col-lg-5
         figure.mb-5
           img(src='@/assets/curso/temas/tema6/img-2.png')
@@ -125,13 +125,13 @@
           .col-md-6.mb-4.mb-md-0
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-3.png')
-                     
+
           .col-md-6.mb-4.mb-md-0
-            h3 <em>Enterprise Resource Planning</em> <br> (Planeamiento de Recursos de la Empresa)
-            p Es un <em>software</em> que unen en un solo sitio los diferentes procesos y datos de la organización.
-            p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo<em> just in time.</em>
-            p La finalidad de un ERP es minimizar los stocks innecesarios hasta eliminarlos, así evitar los costos de almacenamiento.
-        
+            h3 Planeamiento de Recursos de la Empresa<br><em> (Enterprise Resource Planning)</em>
+            p Es un <em>software</em> que une, en un solo sitio, los diferentes procesos y datos de la organización.
+            p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo <strong><em> just in time</em></strong>.
+            p La finalidad de un ERP es minimizar los stocks innecesarios hasta eliminarlos, para evitar los costos de almacenamiento.
+
       .py-3.py-md-4(titulo="CRM")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -143,27 +143,27 @@
             p <em>Customer Relationship Management</em> (Administración de Interacción con el Cliente) es un<em> software</em> que automatiza cada una de las funcionalidades relativas al contacto con los consumidores, permitiendo que las empresas recolecten y almacenen los datos de contacto, las preferencias de los consumidores, el histórico de compras, entre otros.
             br
             p Con el uso de un CRM la organización puede contactar a los consumidores para acciones concretas, con el objetivo de atender a las necesidades de los clientes de forma anticipada.
-        
+
       .py-3.py-md-4(titulo="SCM")
         .row
           .col-md-6.mb-4.mb-md-0
               figure
-                img.img-400(src='@/assets/curso/temas/tema6/img-5.png')        
+                img.img-400(src='@/assets/curso/temas/tema6/img-5.png')
           .col-md-6.mb-4.mb-md-0
             h3 <em>Supply Chain Management</em> <br> (Gestión de la Cadena de Suministro)
             p El objetivo de los sistemas<em> Supply Chain Management </em>(Gestión de la Cadena de Suministro) es producir costo para el consumidor, satisfaciéndolo una vez que él consigue un producto o servicio.
-            br 
+            br
             p Este sistema integra los datos relativos a productores, proveedores y puntos de venta de comercialización, garantizando que los productos sean entregados en las porciones primordiales y en los plazos convenientes, evitando la carencia de mercancía o el exceso de stock.
       .py-3.py-md-4(titulo="SIG")
         .row
           .col-md-6.mb-4.mb-md-0
               figure
-                img.img-400(src='@/assets/curso/temas/tema6/img-6.png')        
+                img.img-400(src='@/assets/curso/temas/tema6/img-6.png')
           .col-md-6.mb-4.mb-md-0
             h3 Sistemas de Información Gerenciales
             p Los Sistemas de Información Gerenciales son dirigidos hacia la ayuda en la toma de elecciones, se aplica en los niveles de la organización más altos.
-            br 
-            p Este sistema es la aplicación de elementos como personas, tecnologías y procedimientos, se caracteriza porque para su funcionamiento y aplicación, utiliza otros sistemas aplicados en las actividades operacionales de la organización.        
+            br
+            p Este sistema es la aplicación de elementos como personas, tecnologías y procedimientos, se caracteriza porque para su funcionamiento y aplicación, utiliza otros sistemas aplicados en las actividades operacionales de la organización.
 
     h3 Manejo de bases de datos
 
@@ -177,19 +177,19 @@
               .bloque-texto-a__texto.p-4.mb-sm-3
                 p Las bases de consumidores se caracterizan por:
                 ul.lista-ul--color.gre
-                  li 
+                  li
                     i.fas.fa-check
-                    | Estar incorporadas por datos que se relacionan, sin embargo, son independientes.   
-                  li 
-                    i.fas.fa-check                                
+                    | Estar incorporadas por datos que se relacionan, sin embargo, son independientes.
+                  li
+                    i.fas.fa-check
                     | Permite entrar un enorme conjunto de usuarios
-                  li 
-                    i.fas.fa-check                                
-                    | Los datos tienen que ser confiables y estar salvaguardados y respaldados.  
-                  li 
-                    i.fas.fa-check                                
+                  li
+                    i.fas.fa-check
+                    | Los datos tienen que ser confiables y estar salvaguardados y respaldados.
+                  li
+                    i.fas.fa-check
                     | Deben ser de fácil acceso.
-                    
+
 
 
 </template>

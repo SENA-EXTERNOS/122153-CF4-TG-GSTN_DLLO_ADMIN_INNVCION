@@ -281,7 +281,7 @@ export default {
     {
       tema: 'Etiqueta y protocolo empresarial',
       referencia:
-        'Educaton Colombia. (2019). Etiqueta y Protocolo Empresarial (video). YouTube. https://www.youtube.com/watch?v=VGziKUKzC4E ',
+        'Educaton Colombia. (2019). <em>Etiqueta y Protocolo Empresarial</em> (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VGziKUKzC4E ',
     },
@@ -289,7 +289,7 @@ export default {
     {
       tema: 'Comunicación interna y externa',
       referencia:
-        'GCFAprendeLibre. (2022). Tipo de comunicación organizacional Comunicación empresarial (Video). YouTube. https://youtu.be/eb0kP8iMpWI',
+        'GCFAprendeLibre. (2022). <em>Tipo de comunicación organizacional Comunicación empresarial</em> (Video). YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/eb0kP8iMpWI',
     },
@@ -297,18 +297,18 @@ export default {
     {
       tema: 'Plan estratégico de comunicaciones',
       referencia:
-        'Burneo, P. (2014). Metodología para realizar un Plan Estratégico de Comunicación (video). YouTube. https://www.youtube.com/watch?v=w-HlVQ0PBOg ',
+        'Burneo, P. (2014). <em>Metodología para realizar un Plan Estratégico de Comunicación</em> (video). YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=w-HlVQ0PBOg ',
+      link: 'https://www.youtube.com/watch?v=w-HlVQ0PBOg',
     },
 
     {
       tema:
         'Confidencialidad en el manejo de la información y datos personales',
       referencia:
-        'Explicamos. (2014). La Ley de Protección de Datos (Video). YouTube. https://www.youtube.com/watch?v=Z1MAFgf6KoQ ',
+        'Explicamos. (2014). <em>La Ley de Protección de Datos</em> (video). YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Z1MAFgf6KoQ ',
+      link: 'https://www.youtube.com/watch?v=Z1MAFgf6KoQ ',
     },
   ],
   creditos: {

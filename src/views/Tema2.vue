@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/tema2/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 Servicio se define como la actividad o actividades llevadas a cabo con el fin de ayudar a satisfacer las necesidades de otra persona y en términos comerciales es el conjunto de actividades realizadas por un proveedor o empresa enfocadas en satisfacer las necesidades de sus clientes o consumidores. 
+        p.mb-5 Servicio se define como la actividad o actividades llevadas a cabo con el fin de ayudar a satisfacer las necesidades de otra persona y en términos comerciales es el conjunto de actividades realizadas por un proveedor o empresa enfocadas en satisfacer las necesidades de sus clientes o consumidores.
 
 
 
@@ -36,51 +36,51 @@
                     i.fas.fa-video
 
     h3.mb-5 Ciclo del servicio y momentos de verdad
-    p.mb-5 El ciclo de servicio o ciclo de atención al cliente representa la base de una experiencia omnicanal con los clientes. Se trata de la estructuración de todo el recorrido que el usuario/cliente debe hacer desde su primer contacto con la empresa hasta que finaliza su experiencia.
+    p.mb-5 El ciclo de servicio o ciclo de atención al cliente, representa la base de una experiencia onmicanal con los clientes. Se trata de la estructuración de todo el recorrido que el usuario/cliente debe realizar, desde su primer contacto con la empresa hasta que finaliza su experiencia.
+
     .row.justify-content-center.mb-5
       .col-md-9.col-lg-10.mb-3
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular Según Vargas, M. & Aldana de Vega, L. (2006):  “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado)” (p. 86).
+            h2.text-regular “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado)” (p. 86).
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
-              .bloque-texto-e__autor 
+              .bloque-texto-e__autor
                 .h3.mb-0 Vargas, M. & Aldana de Vega, L. (2006)
 
 
-      .row.justify-content-center 
+      .row.justify-content-center
         .col-lg-8
           .cajon.color-acento-botones.p-4.mb-4.fnd-8
             p Al implementar los ciclos de servicio, la empresa observa a través de los ojos del cliente y así mismo percibe la calidad del servicio.
 
     p.mb-5 Los ciclos de servicio se representan gráficamente en forma de circunferencia y se ubica cada punto crítico como “momento de verdad”.
     p.mb-5 Observe el siguiente ejemplo:
-    .row.justify-content-center 
+    .row.justify-content-center
         .col-lg-10
-          .titulo-sexto.color-acento-contenido                
-            h5 Figura 2. 
-            span Ejemplo ciclo del servicio
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 2
+            p.mb-0 <em>Ejemplo ciclo del servicio</em>
 
 
         .col-lg-10.mb-5
           .row.justify-content-center.fnd-11
             .col-lg-10
-              h3.text-center.mt-5 Ejemplo ciclo del servicio
-              figure.mb-5
+              figure.my-5
                 img(src='@/assets/curso/temas/tema2/img-3.svg')
 
     p.mb-5 Los “momentos de verdad” son todos los instantes en que el cliente tiene contacto con la empresa y sobre la base de este contacto se define un juicio sobre la calidad del servicio prestado.
     p.mb-5  Este “momento de verdad” también se puede dar cuando el cliente llega al lugar del servicio y se pone en contacto con algunos elementos de la empresa, y no necesariamente con el contacto humano; por ejemplo, la oficina, infraestructura en general, página web, robot de servicio, llamada, correo electrónico, entre otros.
-    p.mb-5  Cabe aclarar que el servicio debe identificar y establecer una estrategia para que todos esos “momentos de verdad” se conviertan en necesidades satisfechas para sus clientes.      
-    .row.justify-content-center 
+    p.mb-5  Cabe aclarar que el servicio debe identificar y establecer una estrategia para que todos esos “momentos de verdad” se conviertan en necesidades satisfechas para sus clientes.
+    .row.justify-content-center
       .col-lg-8
         .cajon.color-primario.p-4.mb-4.fnd-10
 
-          p.text-black Recuerde 
-          p los momentos de verdad no ocurren al azar, normalmente se dan en una secuencia lógica y medible, lo que posibilita identificar las mejoras necesarias para proporcionar servicios con calidad.
+          p.text-black Recuerde
+          p Los momentos de verdad no ocurren al azar, normalmente se dan en una secuencia lógica y medible, lo que posibilita identificar las mejoras necesarias para proporcionar servicios con calidad.
 
     p.mb-5 Dentro del ciclo del servicio se encuentran las siguientes etapas:
     .row.justify-content-center
@@ -120,18 +120,16 @@
                 img.img-50(src='@/assets/curso/temas/tema2/img-9.svg')
 
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Portafolio de servicios
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Portafolio de servicios
 
-    p Es un documento físico o una presentación digital en la cual una organización o persona natural presenta o describe la información más importante de su negocio. 
+    p Es un documento físico o una presentación digital en la cual una organización o persona natural presenta o describe la información más importante de su negocio.
 
     p.mb-5 A continuación, se describen algunos datos relevantes a incluir en un portafolio de servicios.
 
     figure.mb-5
-      img(src='@/assets/curso/temas/tema2/img-10.svg')   
+      img(src='@/assets/curso/temas/tema2/img-10.svg')
 
     p Es importante tener presente que antes de iniciar la construcción del portafolio de servicios, se deben definir los servicios o productos que se quieren mostrar, ofrecer y promover; además, identificar el tipo de cliente al cual estará dirigido su contenido.
 
@@ -148,20 +146,18 @@
               .row(titulo="Cliente objetivo")
                 p Se debe tener claro cuál es el mercado al que se pretende llegar (necesidades y características) con la estructuración del portafolio.
               .row(titulo="Contenido")
-                p Definir qué información se incluirá en el portafolio está debe ser concisa y clara, a modo de generar aceptación y compresión detallada de los productos o servicios.          
+                p Definir qué información se incluirá en el portafolio, la cual debe ser concisa y clara, con el objetivo de generar aceptación y comprensión detallada de los productos o servicios.
               .row(titulo="Diseño")
-                p Es necesario aclarar que el objetivo principal del portafolio es captar la atención e incentivar la decisión de compra, por tanto, se debe establecer un diseño llamativo e innovador acorde al modelo de negocio y la actividad de la empresa.      
+                p Es necesario aclarar que el objetivo principal del portafolio es captar la atención e incentivar la decisión de compra, por tanto, se debe establecer un diseño llamativo e innovador acorde al modelo de negocio y la actividad de la empresa.
               .row(titulo="Formato o medio de divulgación")
-                p Una vez finalizada la construcción del portafolio de servicios se debe definir el medio de divulgación, por ejemplo, presentarlo en forma de catálogo o compartirse de manera digital, bien sea por correo electrónico o por la página web de la compañía.  
-    
-    
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Normas técnicas del servicio
+                p Una vez finalizada la construcción del portafolio de servicios se debe definir el medio de divulgación, por ejemplo, presentarlo en forma de catálogo o compartirse de manera digital, bien sea por correo electrónico o por la página web de la compañía.
 
-    .row.justify-content-center 
+
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Normas técnicas del servicio
+
+    .row.justify-content-center
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-5.fnd-8
 
@@ -171,38 +167,38 @@
     .row.justify-content-flex-start
       .col-lg-1.img-c.d-none.d-lg-block
         figure
-          img.img-h400(src='@/assets/curso/temas/tema2/img-line.svg')  
+          img.img-h400(src='@/assets/curso/temas/tema2/img-line.svg')
       .col-lg-11.col-md-10
         .row.justify-content-center.mt-45.mb-36
           .col-lg-2.mb-sm-3
             figure
               img.img-136(src='@/assets/curso/temas/tema2/img-12.svg')
           .col-lg-10
-            h3 Norma ISO 9000 
+            h3 Norma ISO 9000
             p Describe los fundamentos de los sistemas de gestión de la calidad y especifica la terminología de los sistemas de gestión de la calidad.
-        .row.justify-content-center.mb-36 
+        .row.justify-content-center.mb-36
           .col-lg-2.mb-sm-3
             figure
               img.img-136(src='@/assets/curso/temas/tema2/img-13.svg')
           .col-lg-10
-            h3 Norma ISO 9001 
+            h3 Norma ISO 9001
             p Especifica los requisitos para los sistemas de gestión de la calidad aplicables a toda organización que necesite demostrar su capacidad para proporcionar productos que cumplan los requisitos de sus clientes y los reglamentarios que le sean de aplicación. El objetivo de esta norma es aumentar la satisfacción del cliente.
-        .row.justify-content-center.mb-36 
+        .row.justify-content-center.mb-36
           .col-lg-2.mb-sm-3
             figure
               img.img-136(src='@/assets/curso/temas/tema2/img-14.svg')
           .col-lg-10
-            h3 Norma ISO 9004 
+            h3 Norma ISO 9004
             p Proporciona directrices que consideran tanto la eficacia como la eficiencia del sistema de gestión de la calidad. El objetivo de esta norma es la mejora del desempeño de la organización y la satisfacción de los clientes y de las partes interesadas.
         .row.mb-5.justify-content-center
           .col-lg-2.mb-sm-3
             figure
               img.img-136(src='@/assets/curso/temas/tema2/img-15.svg')
           .col-lg-10
-            h3 Norma ISO 19011 
+            h3 Norma ISO 19011
             p Proporciona orientación relativa a las auditorías de sistemas de gestión de la calidad y de gestión ambiental.
 
-    p.mb-5 Todas ellas forman un conjunto coherente de normas de sistemas de gestión de la calidad que facilitan la mutua comprensión en el comercio nacional e internacional. 
+    p.mb-5 Todas ellas forman un conjunto coherente de normas de sistemas de gestión de la calidad que facilitan la mutua comprensión en el comercio nacional e internacional.
     p.mb-5 Dentro de los principios de calidad de esta norma técnica se identifican:
 
     SlyderF.mb-5.d-f(columnas="col-lg-6 col-xl-4")
@@ -261,15 +257,13 @@
 
 
 
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Procedimientos y políticas
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Procedimientos y políticas
     p.mb-5 Teniendo como base la norma ISO 9001, dentro de las organizaciones se deben establecer procesos y procedimientos enfocados en el servicio al cliente, los cuales se describen a continuación:
 
-      
+
     ImagenInfografica.t-w.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure

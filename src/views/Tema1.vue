@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 El cliente 
+      h1 El cliente
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
@@ -28,7 +28,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 El cliente y tipo
-                  p.text-small Para profundizar en la definición de cliente, lo invitamos a ver el video <b>“El cliente y tipo”. </b> 
+                  p.text-small Para profundizar en la definición de cliente, lo invitamos a ver el video <b>“El cliente y tipo”. </b>
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/MKWwZYf8hSA')" target="_blank")
                     span Ver video
@@ -38,31 +38,19 @@
 
     p.mb-5 El análisis de las necesidades, los gustos, las preferencias y las expectativas de los clientes  permitirán la estructuración y establecimiento de las actividades más adecuadas para el alcance  de un servicio de calidad. Este análisis debe realizarse de manera periódica, teniendo en cuenta los  diferentes cambios del mercado para así lograr una estructuración y actuación.
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Necesidades
 
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Necesidades
 
-    .row.justify-content-center.mb-5
-      .col-md-9.col-lg-10
-        .bloque-texto-e.p-4
-          .bloque-texto-e__texto
-            i.fas.fa-quote-left
-            h2.text-regular Boeree, G. (2003), en su texto “La teoría de la personalidad” alude a la jerarquía de las necesidades, propuesta por Abraham Maslow (1943), para establecer que en el ser humano hay unas necesidades que prevalecen sobre otras; haciendo claridad que las personas inician con satisfacer las necesidades del primer nivel para poder llegar a las de nivel superior. 
+    p “La teoría de la personalidad” alude a la jerarquía de las necesidades, propuesta por Abraham Maslow (1943), para establecer que, en el ser humano, hay unas necesidades que prevalecen sobre otras, teniendo claridad que las personas inician con satisfacer las necesidades del primer nivel, para poder llegar a las de nivel superior.
 
-            i.fas.fa-quote-right
-          .row.align-items-end
-            .col
-              .bloque-texto-e__autor 
-                .h3.mb-0 Boeree, G. (2003),
+    p.mb-5 El autor expone “La pirámide de Maslow” (1943) en 5 grandes bloques: necesidades fisiológicas, de seguridad y reaseguramiento, de amor y pertenencia, de estima, y la necesidad de actualizar el sí mismo; como se muestra en la siguiente imagen:
 
-
-    p.mb-5 El autor expone “La pirámide de Maslow” (1943) en 5 grandes bloques: necesidades fisiológicas, de seguridad y reaseguramiento, de amor y pertenencia, de estima, y la necesidad de actualizar el sí mismo; como se muestra en la siguiente imagen: 
     .titulo-sexto.color-acento-contenido.mb5
       h5 Figura 1
-      span <em> Pirámide de Maslow</em>
+      p.mb-0 <em>Pirámide de Maslow</em>
+
     .row.fnd-11.mb-5
       h3.text-center.mb-5.mt-5 La pirámide de Maslow
       .row.justify-content-center.mb-5
@@ -71,13 +59,13 @@
             img(src='@/assets/curso/temas/tema1/img-3.svg', alt='Texto que describa la imagen')
     p.mb-5 Analizando la pirámide se evidencia que las empresas se ubicarán en el tercer nivel. Esta necesidad de pertenencia adopta una característica netamente social; lo que implica una relación entre el cliente y la organización; vínculo que repercute directamente en la sociedad.
 
-    ul.lista-ul--color.mor.mb-3
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Tipos de clientes
 
-    p.mb-5 Es así como los clientes se pueden clasificar en internos y externos. Conozcamos cada uno de ellos:
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Tipos de clientes
+
+    p Tenemos entonces que, en las empresas, los clientes se clasifican en internos y externos.
+    p.mb-5 Conozcamos cada uno de ellos:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-acento-botones.p-5.fnd-4
@@ -85,19 +73,21 @@
           .col-12.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/img-4.png')
-          
-        h2.text-center Clientes internos   
-        p.text-center Son aquellas personas que están vinculadas con la organización por alguna relación laboral.
+
+        h2.text-center Clientes internos
+        p.text-center Son aquellas personas que están vinculadas con la organización, debido a una relación laboral.
       .col-md.tarjeta.color-acento-botones.p-5.fnd-4-
         .row.justify-content-center.mb-4
           .col-12.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/img-5.png')
-          
-        h2.text-center Clientes externos
-        p.text-center Se refiere a las personas u organizaciones que pagan por un producto o servicio de una empresa o se relacionan comercialmente con esta.
 
-    p.mb-5 Las empresas pueden tener diferentes tipos de clientes externos. Algunos de ellos son:
+        h2.text-center Clientes externos
+        p.text-center Se refiere a las personas y organizaciones que pagan por un producto o servicio de una empresa o se relacionan comercialmente con esta.
+
+    p Las empresas pueden tener diferentes tipos de clientes externos.
+
+    p.mb-5 Algunos de ellos son:
 
     .tarjeta.tarjeta--gris.p-4.px-5.mb-5.ln-am.fnd-3
       LineaTiempoC.color-acento-contenido(text-small)
@@ -114,7 +104,7 @@
               img.img-400(src='@/assets/curso/temas/tema1/img-7.png')
           .col-md-6
             p.text-black Proveedores
-            p Son aquellas personas naturales o jurídicas que proveen de materias primas o productos a la empresa para el desarrollo de su actividad.   
+            p Son aquellas personas naturales o jurídicas que proveen de materias primas o productos a la empresa para el desarrollo de su actividad.
         .row(titulo="Entorno social")
           .col-md-6.mb-4.mb-md-0
             figure
@@ -128,7 +118,7 @@
               img.img-400(src='@/assets/curso/temas/tema1/img-9.png')
           .col-md-6
             p.text-black El Estado
-            p La empresa debe mantener relación de legalidad con el Estado, aplicando cada una de las normas tributarias y legales.              
+            p La empresa debe mantener relación de legalidad con el Estado, aplicando cada una de las normas tributarias y legales.
 
 
 

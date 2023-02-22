@@ -38,15 +38,13 @@
             p <b>Enlace video.</b>  Video "Protocolo de servicio"
 
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Elementos corporativos
+    h3(data-aos="fade-right").mb-4
+      i.fas.fa-square.cac.me-3
+      |Elementos corporativos
 
     p.mb-5 Son todos aquellos componentes que permiten que una organización u empresa sea diferente de las demás, por tanto, es vital su estructuración y de esta forma tener claridad en su direccionamiento.
 
-    .row.justify-content-center 
+    .row.justify-content-center
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-4
 
@@ -65,14 +63,14 @@
           .col-md-6
             p.text-black Nombre
             p Es la principal identidad verbal. La marca se debe leer y entender de esta forma se puede nombrar, recordar, buscar y recomendar.
-        
+
         .row(titulo="El isotipo")
           .col-md-6.mb-4.mb-md-0
             figure
               img.img-400(src='@/assets/curso/temas/tema3/img-3.png')
           .col-md-6
             p.text-black El isotipo
-            p Conocido como símbolo o imagotipo, es un elemento utilizado para identificar una marca, ya sea de una empresa, un producto, un servicio, un evento, una campaña de comunicación o de una consigna ideológica, este símbolo no incluye el nombre de la entidad identificada. 
+            p Conocido como símbolo o imagotipo, es un elemento utilizado para identificar una marca, ya sea de una empresa, un producto, un servicio, un evento, una campaña de comunicación o de una consigna ideológica, este símbolo no incluye el nombre de la entidad identificada.
 
         .row(titulo="El logotipo")
           .col-md-6.mb-4.mb-md-0
@@ -80,7 +78,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-4.png')
           .col-md-6
             p.text-black El logotipo
-            p Viene a ser el nombre de la empresa o marca con una tipografía y composición visual concreta.   
+            p Viene a ser el nombre de la empresa o marca con una tipografía y composición visual concreta.
 
         .row(titulo="El isologotipo")
           .col-md-6.mb-4.mb-md-0
@@ -88,7 +86,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-5.png')
           .col-md-6
             p.text-black El isologotipo
-            p Es un identificador gráfico que se utiliza para firmar las comunicaciones de una entidad (organización, institución, producto, servicio, etc.). El isologotipo se forma al unir un símbolo gráfico y un estímulo textual representado con signos tipográficos. 
+            p Es un identificador gráfico que se utiliza para firmar las comunicaciones de una entidad (organización, institución, producto, servicio, etc.). El isologotipo se forma al unir un símbolo gráfico y un estímulo textual representado con signos tipográficos.
 
         .row(titulo="<em>Slogan</em>")
           .col-md-6.mb-4.mb-md-0
@@ -96,15 +94,15 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-6-.png')
           .col-md-6
             p.text-black <em>Slogan</em>
-            p Es una frase o palabra corta, un lema original e impactante, este suele ser fácil de recordar en los consumidores cuando es innovador y creativo, además puede hablar de los beneficios del producto.      
-        
+            p Es una frase o palabra corta, un lema original e impactante, este suele ser fácil de recordar en los consumidores cuando es innovador y creativo, además puede hablar de los beneficios del producto.
+
         .row(titulo="Colores institucionales")
           .col-md-6.mb-4.mb-md-0
             figure
               img.img-400(src='@/assets/curso/temas/tema3/img-6.png')
           .col-md-6
             p.text-black Colores institucionales
-            p Los colores corporativos son un aspecto que ayudan a definir la identidad corporativa de una empresa. El uso de un color predominante o la combinación de algunos (en sus diferentes elementos, logo, página web, nombre, etc.), ayuda a definir la personalidad o el estilo de una empresa.  
+            p Los colores corporativos son un aspecto que ayudan a definir la identidad corporativa de una empresa. El uso de un color predominante o la combinación de algunos (en sus diferentes elementos, logo, página web, nombre, etc.), ayuda a definir la personalidad o el estilo de una empresa.
 
         .row(titulo="Misión")
           .col-md-6.mb-4.mb-md-0
@@ -112,7 +110,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-7.png')
           .col-md-6
             p.text-black Misión
-            p Se define como la razón de ser del negocio, a qué se dedica, quién es, cuál es su propósito y quién es su mercado objetivo. 
+            p Se define como la razón de ser del negocio, a qué se dedica, quién es, cuál es su propósito y quién es su mercado objetivo.
 
         .row(titulo="Visión")
           .col-md-6.mb-4.mb-md-0
@@ -120,7 +118,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-8.png')
           .col-md-6
             p.text-black Visión
-            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretender alcanzar en un futuro. 
+            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretender alcanzar en un futuro.
 
         .row(titulo="Políticas")
           .col-md-6.mb-4.mb-md-0
@@ -128,7 +126,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-9-.png')
           .col-md-6
             p.text-black Políticas
-            p Son criterios organizacionales en la que se determinan normas de cada área o unidad de la organización. Las políticas pueden ser de carácter particular (para una solo dependencia) y de carácter general (para toda la organización).  
+            p Se refiere a criterios organizacionales donde se determinan normas de cada área o unidad de la organización. Las políticas pueden ser de carácter particular (para una sola dependencia) o de carácter general (para toda la organización).
 
         .row(titulo="Planes")
           .col-md-6.mb-4.mb-md-0
@@ -136,8 +134,8 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-9.png')
           .col-md-6
             p.text-black Planes
-            p Son proyecciones futuras que surgen como resultado de la planeación estratégica, se estructuran a largo plazo y suelen ser de carácter corporativo. 
-       
+            p Son proyecciones futuras que surgen como resultado de la planeación estratégica, se estructuran a largo plazo y suelen ser de carácter corporativo.
+
 
         .row(titulo="Programas")
           .col-md-6.mb-4.mb-md-0
@@ -145,7 +143,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-10.png')
           .col-md-6
             p.text-black Programas
-            p Se fijan con la intención de ayudar al logro de los objetivos y de los planes.   
+            p Se fijan con la intención de ayudar al logro de los objetivos y de los planes.
 
         .row(titulo="Proyectos")
           .col-md-6.mb-4.mb-md-0
@@ -153,7 +151,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-11.png')
           .col-md-6
             p.text-black Proyectos
-            p Son estructuras a mediano plazo que permiten una acción concreta y ayudan al logro de las metas establecidas.    
+            p Son estructuras a mediano plazo que permiten una acción concreta y ayudan al logro de las metas establecidas.
 
 
 </template>

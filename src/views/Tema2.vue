@@ -43,13 +43,13 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado)” (p. 86).
+            p.text-regular “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado)” (p. 86).
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                .h3.mb-0 Vargas, M. & Aldana de Vega, L. (2006)
+                b.mb-0 Vargas, M. & Aldana de Vega, L. (2006)
 
 
       .row.justify-content-center

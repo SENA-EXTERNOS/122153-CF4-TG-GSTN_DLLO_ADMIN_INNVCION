@@ -114,12 +114,6 @@ export default {
         titulo: 'Normativa seguridad y salud en el trabajo',
         desarrolloContenidos: true,
       },
-      {
-        nombreRuta: 'sintesis',
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
@@ -175,7 +169,7 @@ export default {
 
     {
       referencia:
-        'Bueno, A. (2021).<em> La tecnología</em>, una herramienta de servicio al cliente (Trabajo de grado, Universidad Militar Nueva Granada). Repositorio Universidad Militar Nueva Granada. ',
+        'Bueno, A. (2021).<em> La tecnología, una herramienta de servicio al cliente</em> (Trabajo de grado, Universidad Militar Nueva Granada). Repositorio Universidad Militar Nueva Granada. ',
       link:
         'https://repository.unimilitar.edu.co/bitstream/handle/10654/39544/BuenoRodriguezAdrianaLissette2021.pdf?sequence=3&isAllowed=y ',
     },
@@ -211,8 +205,7 @@ export default {
     {
       referencia:
         'Vargas, M. & Aldana de Vega, L. (2006).<em> Calidad y servicio. Conceptos y herramientas.</em> Universidad de La Sabana. Ecoe Ediciones. 2006. ',
-      link:
-        'http://190.116.26.93:2171/mdv-biblioteca-virtual/libro/documento/eJXNoCbVAnZ8hFKYtJzja._CALIDAD_Y_SERVICIOS_-_CONCEPTOS_Y_HERRAMIENTAS.pdf',
+      link: '',
     },
   ],
   glosario: [
@@ -222,12 +215,12 @@ export default {
         'elemento especial del servicio que consiste en el contacto directo del personal encargado del servicio al cliente con los consumidores, compradores o clientes.',
     },
     {
-      termino: 'Brochure',
+      termino: '<em>Brochure</em>',
       significado:
         'folleto o documentos gráfico físico o digital, que permite mostrar los productos o servicios que ofrece una empresa.',
     },
     {
-      termino: 'Call center',
+      termino: '<em>Call center</em>',
       significado:
         'centro de atención por canal telefónico que permite la unión entre la organización y el cliente.',
     },
@@ -247,12 +240,12 @@ export default {
         'conjunto de estrategias y técnicas enfocadas en lograr que los clientes que han llegado a la empresa sigan comprando de manera continua y recurrente.',
     },
     {
-      termino: 'Mailing',
+      termino: '<em>Mailing</em>',
       significado:
         'herramienta de comunicación que consiste en enviar información vía correo electrónico a los clientes, posibles clientes o usuarios.',
     },
     {
-      termino: 'Marketing digital',
+      termino: '<em>Marketing</em> digital',
       significado:
         'es una nueva forma de hacer mercadeo, se aplica por medio del uso de herramientas tecnológicas y por medio de canales virtuales.',
     },

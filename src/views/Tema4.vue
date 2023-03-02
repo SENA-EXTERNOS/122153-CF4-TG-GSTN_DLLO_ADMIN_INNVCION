@@ -22,7 +22,7 @@
     TabsA.color-acento-contenido.grs.mb-5
       .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Comunicación formal")
         p La propia empresa establece, genera, o manipula, esta información. Se estructura bajo las políticas y metas de la compañía, debe ser controlada y estar sujeta a normas o reglas.
-
+        p Para ampliar la información, se invita a revisar el material complementario donde encontrará el video #[b “Tipos de comunicación organizacional | Comunicación empresarial”]
         //p.mb-4 Para ampliar la información, se invita a revisar el material complementario donde encontrará el video <br> <b>“Tipos de comunicación organizacional | Comunicación empresarial”.</b>
         //.row.justify-content-center
           .col-md-6.col-lg-6
@@ -199,13 +199,13 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular La finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación <em>on-line, marketing</em> directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, <em>branded content,</em> etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13)
+            p.text-regular La finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación <em>on-line, marketing</em> directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, <em>branded content,</em> etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13)
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                .h3.mb-0 Tur-Viñes, V. & Monserrat-Gauchi, J. (2014).(p. 13).
+                b.mb-0 Tur-Viñes, V. & Monserrat-Gauchi, J. (2014)(p. 13).
 
     p.mb-5 Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios.
     p.mb-5 La siguiente imagen es un ejemplo de la estructuración de una matriz de comunicaciones como recurso principal para la ejecución del plan.
@@ -243,18 +243,18 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular “La recolección, uso y tratamiento de datos personales sólo puede ejercerse con el consentimiento previo, expreso e informado del titular. Los datos personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o judicial que releve el consentimiento”. (p. 86).
+            p.text-regular “La recolección, uso y tratamiento de datos personales sólo puede ejercerse con el consentimiento previo, expreso e informado del titular. Los datos personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o judicial que releve el consentimiento”. (p. 86).
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                .h5.mt-2.mb-0 Ley 1581 de 2012 - Ley de Protección de Datos Personales y el Instructivo de la Política para el Tratamiento de Datos Personales Principio de libertad. (p. 86).
+                b.mt-2.mb-0 Ley 1581 de 2012 - Ley de Protección de Datos Personales y el Instructivo de la Política para el Tratamiento de Datos Personales Principio de libertad. (p. 86).
 
     p.mb-5 Todas las organizaciones dentro de su política de manejo de información deben tener como base la política de tratamiento de datos personales, poner en práctica cada uno de sus principios y garantizar a sus clientes el buen manejo de su información. Hace parte de un buen servicio fomentar en los clientes tranquilidad, confianza y hacerles sentir que la empresa vela por su seguridad y garantiza el buen manejo de sus datos.
 
 
-    //.row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5
       .col-md-8.col-lg-10
         .tarjeta.p-3.mb-5.fnd-2
           .row.justify-content-around.align-items-center
@@ -266,7 +266,7 @@
                   h3.mb-1 Video “La Ley de Protección de Datos”
                   p.text-small Para profundizar esta información, se invita a revisar el material complementario donde encontrará el video “La Ley de Protección de Datos”.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/watch?v=Z1'" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="src='https://www.youtube.com/watch?v=Z1MAFgf6KoQ'" target="_blank")
                     span Ver video
                     i.fas.fa-video
 

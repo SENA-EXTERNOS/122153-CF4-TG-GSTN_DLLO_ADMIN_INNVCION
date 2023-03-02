@@ -19,7 +19,7 @@
 
         p Ahora, la buena salud permite el desarrollo de las funciones laborales; esto, traducido en el logro de los objetivos de las organizaciones, según la planeación y las funciones de cada cargo.
 
-        p Sin embargo, si el trabajo se desarrolla en condiciones que pueda causar daño a la integridad física, existirá un deterioro en la salud del trabajador y, por lo tanto, se verán afectados los resultados. de la empresa.
+        p Sin embargo, si el trabajo se desarrolla en condiciones que pueda causar daño a la integridad física, existirá un deterioro en la salud del trabajador y, por lo tanto, se verán afectados los resultados de la empresa.
 
         p En Colombia, existe reglamentación que define y exige la aplicación y cumplimiento en temas de seguridad y salud en el trabajo; estas leyes, decretos y normas, son de estricto cumplimiento, sin importar la categoría de la organización.
 
@@ -50,7 +50,7 @@
 
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema7/img-3.png')
+              img(src='@/assets/curso/temas/tema7/img-3.png').p-1
 
         .row
           .col-md-8.mb-4.mb-md-0.p-y-5
@@ -60,7 +60,7 @@
 
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema7/img-4.png')
+              img(src='@/assets/curso/temas/tema7/img-4.png').p-1
 
         .row
           .col-md-8.mb-4.mb-md-0.p-y-5
@@ -85,7 +85,7 @@
 
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema7/img-3.png')
+              img(src='@/assets/curso/temas/tema7/img-6.png')
 
 
     ul.lista-ul--color.mor

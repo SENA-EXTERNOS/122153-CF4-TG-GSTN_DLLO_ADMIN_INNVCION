@@ -32,20 +32,18 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular El consumidor actual es multicanal, y como cuenta con gran diversidad de opciones de productos y servicios, prefiere tener, a su disposición, varios canales de comunicación disponibles para cuando desee contactarse.
-
-
+            p.text-regular El consumidor actual es multicanal, y como cuenta con gran diversidad de opciones de productos y servicios, prefiere tener, a su disposición, varios canales de comunicación disponibles para cuando desee contactarse.
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                .h3.mb-0 Bueno A. (2021)
+                b.mb-0 Bueno A. (2021)
 
     p.mb-5 En la siguiente tabla, se identifican algunas de las diferentes opciones tecnológicas, que las empresas pueden utilizar para fortalecer sus canales de comunicación y servicio.
 
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 1.
-      span Opciones tecnológicas
+      h5 Tabla 1
+      p #[i Opciones tecnológicas]
 
     .tabla-a.color-acento-contenido.mb-5.tb
       table
@@ -93,13 +91,13 @@
         .bloque-texto-e.p-4.mb-3
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            h2.text-regular Un sistema de información es una combinación organizada de personas, <em>hardware</em>, <em>software</em>, redes de comunicaciones y recursos de datos que reúne, transforma y disemina información en una organización.
+            p.text-regular Un sistema de información es una combinación organizada de personas, <em>hardware</em>, <em>software</em>, redes de comunicaciones y recursos de datos que reúne, transforma y disemina información en una organización.
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                .h3.mb-0 (O´Brien, 2001). (2021)
+                b.mb-0 (O´Brien, 2001)
 
         p.mb-5 Dentro de las organizaciones se considera que los sistemas de información permiten mejorar la efectividad gerencial, son de gran provecho para apoyar la planeación, organización, toma de decisiones, coordinación y el control, ayudan a los gerentes y al personal a analizar, detectar y solucionar problemas, concebir asuntos complejos y crear nuevos productos y/o servicios.
       .col-lg-5
@@ -130,7 +128,7 @@
             h3 Planeamiento de Recursos de la Empresa<br><em> (Enterprise Resource Planning)</em>
             p Es un <em>software</em> que une, en un solo sitio, los diferentes procesos y datos de la organización.
             p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo <strong><em> just in time</em></strong>.
-            p La finalidad de un ERP es minimizar los stocks innecesarios hasta eliminarlos, para evitar los costos de almacenamiento.
+            p La finalidad de un ERP es minimizar los #[i stocks] innecesarios hasta eliminarlos, para evitar los costos de almacenamiento.
 
       .py-3.py-md-4(titulo="CRM")
         .row
@@ -153,7 +151,7 @@
             h3 <em>Supply Chain Management</em> <br> (Gestión de la Cadena de Suministro)
             p El objetivo de los sistemas<em> Supply Chain Management </em>(Gestión de la Cadena de Suministro) es producir costo para el consumidor, satisfaciéndolo una vez que él consigue un producto o servicio.
             br
-            p Este sistema integra los datos relativos a productores, proveedores y puntos de venta de comercialización, garantizando que los productos sean entregados en las porciones primordiales y en los plazos convenientes, evitando la carencia de mercancía o el exceso de stock.
+            p Este sistema integra los datos relativos a productores, proveedores y puntos de venta de comercialización, garantizando que los productos sean entregados en las porciones primordiales y en los plazos convenientes, evitando la carencia de mercancía o el exceso de #[i stock].
       .py-3.py-md-4(titulo="SIG")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -182,7 +180,7 @@
                     | Estar incorporadas por datos que se relacionan, sin embargo, son independientes.
                   li
                     i.fas.fa-check
-                    | Permite entrar un enorme conjunto de usuarios
+                    | Permite entrar un enorme conjunto de usuarios.
                   li
                     i.fas.fa-check
                     | Los datos tienen que ser confiables y estar salvaguardados y respaldados.

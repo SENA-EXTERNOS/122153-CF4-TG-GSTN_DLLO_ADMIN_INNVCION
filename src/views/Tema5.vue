@@ -37,8 +37,10 @@
 
     p.mb-5 A continuación, se relacionan cuatro técnicas para optimizar las respuestas a los usuarios:
 
-    figure.mb-5
-      img(src='@/assets/curso/temas/tema5/img-2-.svg')
+    .row.justify-content-center
+      .col-lg-10
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema5/img-2-.svg')
 
     p Independientemente del canal de comunicación que se utilice, existen muchas formas de aportar una respuesta oportuna a los clientes.
     p.mb-5 Conozcamos algunos consejos para las buenas prácticas en cuanto a modelos de respuestas:

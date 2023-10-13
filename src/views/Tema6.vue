@@ -9,15 +9,15 @@
       h1 Medios tecnológicos en el servicio al cliente
 
     .row.justify-content-between.mb-5
-      .col-md-6.col-lg-4
+      .col-lg-6.col-lg-4
 
           figure
             img(src='@/assets/curso/temas/tema6/img-1.png')
 
-      .col-md-6.col-lg-8
+      .col-lg-6.col-lg-8
         p.mb-5 La aplicación de la tecnología en el servicio al cliente se ha visto más necesaria en la actualidad, debido a que los consumidores (clientes) están más conectados y requieren una atención rápida, personalizada y permanente.
         .cajon.color-acento-botones.p-4.mb-4.fnd-8
-          p Las herramientas tecnológicas pueden ser aplicadas en todas las áreas relacionadas con la atención al cliente, desde la aplicación de encuestas de satisfacción online, para obtener retroalimentación del cliente, hasta el uso de plataformas de <em>Customer Experience,</em> aplicaciones móviles, herramientas de inteligencia artificial, entre otros.
+          p Las herramientas tecnológicas pueden ser aplicadas en todas las áreas relacionadas con la atención al cliente, desde la aplicación de encuestas de satisfacción #[em online], para obtener retroalimentación del cliente, hasta el uso de plataformas de <em>Customer Experience,</em> aplicaciones móviles, herramientas de inteligencia artificial, entre otros.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -97,7 +97,7 @@
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                b.mb-0 (O´Brien, 2001)
+                b.mb-0 O´Brien, James (2001)
 
         p.mb-5 Dentro de las organizaciones se considera que los sistemas de información permiten mejorar la efectividad gerencial, son de gran provecho para apoyar la planeación, organización, toma de decisiones, coordinación y el control, ayudan a los gerentes y al personal a analizar, detectar y solucionar problemas, concebir asuntos complejos y crear nuevos productos y/o servicios.
       .col-lg-5
@@ -120,23 +120,23 @@
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="ERP")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-3.png')
 
-          .col-md-6.mb-4.mb-md-0
-            h3 Planeamiento de Recursos de la Empresa<br><em> (Enterprise Resource Planning)</em>
+          .col-lg-6.mb-4.mb-md-0
+            h3 <br> #[em Enterprise Resource Planning] (Planeamiento de Recursos de la Empresa)
             p Es un <em>software</em> que une, en un solo sitio, los diferentes procesos y datos de la organización.
             p Los datos otorgados por un ERP ayudan a traer más velocidad a los procesos y permiten llevar a cabo la producción por demanda, también llamado el modelo productivo <strong><em> just in time</em></strong>.
             p La finalidad de un ERP es minimizar los #[i stocks] innecesarios hasta eliminarlos, para evitar los costos de almacenamiento.
 
       .py-3.py-md-4(titulo="CRM")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-4.png')
 
-          .col-md-6
+          .col-lg-6
             h3 <em>Customer Relationship Management </em><br> (Administración de Interacción con el Cliente)
             p <em>Customer Relationship Management</em> (Administración de Interacción con el Cliente) es un<em> software</em> que automatiza cada una de las funcionalidades relativas al contacto con los consumidores, permitiendo que las empresas recolecten y almacenen los datos de contacto, las preferencias de los consumidores, el histórico de compras, entre otros.
             br
@@ -144,20 +144,20 @@
 
       .py-3.py-md-4(titulo="SCM")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-5.png')
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h3 <em>Supply Chain Management</em> <br> (Gestión de la Cadena de Suministro)
             p El objetivo de los sistemas<em> Supply Chain Management </em>(Gestión de la Cadena de Suministro) es producir costo para el consumidor, satisfaciéndolo una vez que él consigue un producto o servicio.
             br
             p Este sistema integra los datos relativos a productores, proveedores y puntos de venta de comercialización, garantizando que los productos sean entregados en las porciones primordiales y en los plazos convenientes, evitando la carencia de mercancía o el exceso de #[i stock].
       .py-3.py-md-4(titulo="SIG")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
               figure
                 img.img-400(src='@/assets/curso/temas/tema6/img-6.png')
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h3 Sistemas de Información Gerenciales
             p Los Sistemas de Información Gerenciales son dirigidos hacia la ayuda en la toma de elecciones, se aplica en los niveles de la organización más altos.
             br

@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/tema2/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 Servicio se define como la actividad o actividades llevadas a cabo con el fin de ayudar a satisfacer las necesidades de otra persona y en términos comerciales es el conjunto de actividades realizadas por un proveedor o empresa enfocadas en satisfacer las necesidades de sus clientes o consumidores.
+        p.mb-5 Servicio se define como la actividad o actividades llevadas a cabo con el fin de ayudar a satisfacer las necesidades de otra persona y en términos comerciales, es el conjunto de actividades realizadas por un proveedor o empresa enfocadas en satisfacer las necesidades de sus clientes o consumidores.
 
 
 
@@ -36,14 +36,14 @@
                     i.fas.fa-video
 
     h3.mb-5 Ciclo del servicio y momentos de verdad
-    p.mb-5 El ciclo de servicio o ciclo de atención al cliente, representa la base de una experiencia onmicanal con los clientes. Se trata de la estructuración de todo el recorrido que el usuario/cliente debe realizar, desde su primer contacto con la empresa hasta que finaliza su experiencia.
+    p.mb-5 El ciclo de servicio o ciclo de atención al cliente, representa la base de una experiencia omnicanal con los clientes. Se trata de la estructuración de todo el recorrido que el usuario/cliente debe realizar, desde su primer contacto con la empresa hasta que finaliza su experiencia.
 
     .row.justify-content-center.mb-5
       .col-md-9.col-lg-10.mb-3
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p.text-regular “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado)” (p. 86).
+            p.text-regular “El ciclo del servicio constituye una de las herramientas indispensables de la Gerencia del Servicio. En él se refleja la sucesión ordenada (secuencia repetible) de todos y cada uno de los contactos que tiene el cliente en la organización, bien sea con personas o con elementos. Estos pueden ser estelares (cuando el cliente queda satisfecho con el servicio), o amargos (cuando se produce contrariedad o no existe satisfacción por el servicio prestado).” (p. 86).
 
             i.fas.fa-quote-right
           .row.align-items-end
@@ -201,54 +201,54 @@
     p.mb-5 Todas ellas forman un conjunto coherente de normas de sistemas de gestión de la calidad que facilitan la mutua comprensión en el comercio nacional e internacional.
     p.mb-5 Dentro de los principios de calidad de esta norma técnica se identifican:
 
-    SlyderF.mb-5.d-f(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4.d-f
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-16.svg' alt='AvatarTop')
         h2.text-center Enfoque al cliente
-        p.text-center La organización depende de sus clientes y por ello se deberá comprender las necesidades actuales y futuras de los clientes y satisfacerlas.
+        p.text-center La organización depende de sus clientes, por lo tanto, es fundamental comprender tanto sus necesidades actuales como las futuras y satisfacerlas.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop')
         h2.text-center Liderazgo
         p.text-center Los líderes deben establecer y mantener un ambiente interno agradable, para que las personas se involucren en el cumplimiento de los objetivos propuestos en la organización.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-18.svg' alt='AvatarTop')
         h2.text-center Participación del personal
-        p.text-center El personal es la esencia de la compañía, por tanto su compromiso permite que sus habilidades y competencias sean usadas en beneficio de la organización.
+        p.text-center El personal es la esencia de la compañía, por tanto, su compromiso permite que sus habilidades y competencias sean usadas en beneficio de la organización.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-19.svg' alt='AvatarTop')
         h2.text-center Enfoque basado en procesos
         p.text-center Cuando las actividades y los recursos se relacionan como un proceso se alcanzan resultados de manera eficiente.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-20.svg' alt='AvatarTop')
         h2.text-center Enfoque de sistema para la gestión
         p.text-center Identificar, entender y gestionar los procesos interrelacionados como un sistema.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-21.svg' alt='AvatarTop')
         h2.text-center Mejora continua
         p.text-center La mejora continua debe ser un objetivo permanente en la organización.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-22.svg' alt='AvatarTop')
         h2.text-center Enfoque basado en hechos para la toma de decisión
         p.text-center La toma de decisiones se debe basar en los análisis de la información y los datos.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img-23.svg' alt='AvatarTop')

@@ -62,7 +62,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-2.svg')
           .col-md-6
             p.text-black Nombre
-            p Es la principal identidad verbal. La marca se debe leer y entender de esta forma se puede nombrar, recordar, buscar y recomendar.
+            p Es la principal identidad verbal. La marca se debe leer y entender, de esta forma, se puede nombrar, recordar, buscar y recomendar.
 
         .row(titulo="El isotipo")
           .col-md-6.mb-4.mb-md-0
@@ -118,7 +118,7 @@
               img.img-400(src='@/assets/curso/temas/tema3/img-8.png')
           .col-md-6
             p.text-black Visión
-            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretender alcanzar en un futuro.
+            p Es la meta o proyección que la organización se propone a largo plazo, en ella se plantean las aspiraciones y expectativas que se pretende alcanzar en un futuro.
 
         .row(titulo="Políticas")
           .col-md-6.mb-4.mb-md-0

@@ -33,7 +33,7 @@
         |
         h3.text-black Respuesta a usuarios
 
-    p.mb-5 Un comprador que debe esperar para ser atendido por un largo tiempo, es un comprador insatisfecho. La ansiedad y la molestia son emociones que los clientes no tienen por qué experimentar una vez se pongan en contacto con la empresa, sin importar el canal de comunicación habilitado esperar jamás será sinónimo de un buen servicio,esto disminuye la sensación de eficiencia y calidad.
+    p.mb-5 Un comprador que debe esperar para ser atendido por un largo tiempo, es un comprador insatisfecho. La ansiedad y la molestia son emociones que los clientes no tienen por qué experimentar una vez se pongan en contacto con la empresa, sin importar el canal de comunicación habilitado, esperar jamás será sinónimo de un buen servicio,esto disminuye la sensación de eficiencia y calidad.
 
     p.mb-5 A continuación, se relacionan cuatro técnicas para optimizar las respuestas a los usuarios:
 
@@ -62,7 +62,7 @@
               .row(titulo="Usar respuestas preparadas, personalización y recursos de autoayuda")
                 p Las respuestas preparadas ayudan a contestar velozmente las solicitudes más comunes de los consumidores, permitiendo reducir el tiempo de espera de los usuarios y el trabajo de la empresa.
               .row(titulo="Capacitar a los empleados")
-                p Los agentes de servicio no solo necesitan conocer las solicitudes habituales o problemas comunes de los consumidores, sino también requieren estar al tanto de cada una de las herramientas, instrumentos, técnicas, tips y conocimientos necesarios para brindar un excelente servicio y así generar valores a partir del servicio postventa.
+                p Los agentes de servicio no solo necesitan conocer las solicitudes habituales o problemas comunes de los consumidores, sino también requieren estar al tanto de cada una de las herramientas, instrumentos, técnicas, #[em tips] y conocimientos necesarios para brindar un excelente servicio y así generar valores a partir del servicio postventa.
               .row(titulo="Confiar en la tecnología")
                 p Existen numerosas maneras en que la tecnología puede contribuir a optimizar y automatizar labores repetitivas en el servicio postventa. Como resultado se mejorará de forma significativa la funcionalidad de contestación hacia los clientes.
                 p Un programa de soporte técnico como<em> Freshdesk</em> es la mejor manera de optimizar el proceso de soporte, ya que ayudará a priorizar los inconvenientes que requieren atención y a reunir todos los canales de comunicación en un mismo panel.

@@ -170,7 +170,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-8.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Cuando se hayan fijado los objetivos, es necesario clasificarlos según los grupos de interés de este modo saber qué estrategia proyectar para obtener el resultado esperado.
+            p Cuando se hayan fijado los objetivos, es necesario clasificarlos según los grupos de interés, de este modo, saber qué estrategia proyectar para obtener el resultado esperado.
             br
             br
             p Los grupos de interés son la clasificación de interesados o involucrados en el desarrollo normal de la organización y son necesarios e importantes en el alcance de los objetivos de la empresa.
@@ -199,15 +199,15 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p.text-regular La finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación <em>on-line, marketing</em> directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, <em>branded content,</em> etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13)
+            p.text-regular La finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo, las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación <em>on-line, marketing</em> directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, <em>branded content,</em> etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13)
 
             i.fas.fa-quote-right
           .row.align-items-end
             .col
               .bloque-texto-e__autor
-                b.mb-0 Tur-Viñes, V. & Monserrat-Gauchi, J. (2014)(p. 13).
+                b.mb-0 Tur-Viñes, V. & Monserrat-Gauchi, J. (2014).
 
-    p.mb-5 Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios.
+    p.mb-5 Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado, se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios.
     p.mb-5 La siguiente imagen es un ejemplo de la estructuración de una matriz de comunicaciones como recurso principal para la ejecución del plan.
 
     .row.fnd-11.justify-content-center
@@ -243,7 +243,7 @@
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p.text-regular “La recolección, uso y tratamiento de datos personales sólo puede ejercerse con el consentimiento previo, expreso e informado del titular. Los datos personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o judicial que releve el consentimiento”. (p. 86).
+            p.text-regular La recolección, uso y tratamiento de datos personales sólo puede ejercerse con el consentimiento previo, expreso e informado del titular. Los datos personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o judicial que releve el consentimiento. (p. 86).
 
             i.fas.fa-quote-right
           .row.align-items-end

@@ -277,13 +277,13 @@ export default {
       referencia:
         'Educaton Colombia. (2019). <em>Etiqueta y Protocolo Empresarial</em> (video). YouTube. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=VGziKUKzC4E ',
+      link: 'https://www.youtube.com/watch?v=VGziKUKzC4E',
     },
 
     {
       tema: 'Comunicación interna y externa',
       referencia:
-        'GCFAprendeLibre. (2022). <em>Tipo de comunicación organizacional Comunicación empresarial</em> (Video). YouTube. ',
+        'GCFAprendeLibre. (2022). <em>Tipos de comunicación organizacional Comunicación empresarial</em> (Video). YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/eb0kP8iMpWI',
     },
